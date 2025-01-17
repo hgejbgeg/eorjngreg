@@ -1,0 +1,5536 @@
+[
+  {
+    "word": "a",
+    "phonetic american": "eɪ",
+    "phonetic british": "eɪ",
+    "kind": "indefinite article",
+    "meaning list": [
+      {
+        "meaning": "一个（不定冠词）",
+        "sentence": "She bought a book from the store.",
+        "sentence translation": "她从商店买了一本书。"
+      },
+      {
+        "meaning": "任何一个（不定冠词）",
+        "sentence": "A dog was barking outside.",
+        "sentence translation": "外面有一只狗在叫。"
+      }
+    ]
+  },
+  {
+    "word": "about",
+    "phonetic american": "əˈbaʊt",
+    "phonetic british": "əˈbaʊt",
+    "kind": "prep., adv.",
+    "meaning list": [
+      {
+        "meaning": "关于（介词）",
+        "sentence": "The book is about ancient civilizations.",
+        "sentence translation": "这本书是关于古代文明的。"
+      },
+      {
+        "meaning": "大约（副词）",
+        "sentence": "The meeting will last about two hours.",
+        "sentence translation": "会议大约持续两个小时。"
+      },
+      {
+        "meaning": "到处（副词）",
+        "sentence": "There were papers scattered about the room.",
+        "sentence translation": "房间里到处都是散落的纸张。"
+      }
+    ]
+  },
+  {
+    "word": "above",
+    "phonetic american": "əˈbʌv",
+    "phonetic british": "əˈbʌv",
+    "kind": "prep., adv.",
+    "meaning list": [
+      {
+        "meaning": "在……之上（介词）",
+        "sentence": "The airplane flew above the clouds.",
+        "sentence translation": "飞机在云层之上飞行。"
+      },
+      {
+        "meaning": "在楼上（副词）",
+        "sentence": "He lives in the apartment above.",
+        "sentence translation": "他住在楼上的公寓里。"
+      },
+      {
+        "meaning": "在更高的水平上（副词）",
+        "sentence": "Her scores were above average.",
+        "sentence translation": "她的分数高于平均水平。"
+      }
+    ]
+  },
+  {
+    "word": "across",
+    "phonetic american": "əˈkrɔːs",
+    "phonetic british": "əˈkrɒs",
+    "kind": "prep., adv.",
+    "meaning list": [
+      {
+        "meaning": "在……对面（介词）",
+        "sentence": "The bank is across the street.",
+        "sentence translation": "银行在街道对面。"
+      },
+      {
+        "meaning": "穿越（介词）",
+        "sentence": "They traveled across the country.",
+        "sentence translation": "他们穿越了整个国家。"
+      },
+      {
+        "meaning": "到对面（副词）",
+        "sentence": "She swam across to the other side of the lake.",
+        "sentence translation": "她游到了湖的另一边。"
+      }
+    ]
+  },
+  {
+    "word": "action",
+    "phonetic american": "ˈækʃən",
+    "phonetic british": "ˈækʃən",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "动作，行动",
+        "sentence": "The movie is full of action scenes.",
+        "sentence translation": "这部电影充满了动作场面。"
+      },
+      {
+        "meaning": "诉讼（法律）",
+        "sentence": "He decided to take legal action against the company.",
+        "sentence translation": "他决定对该公司提起法律诉讼。"
+      }
+    ]
+  },
+  {
+    "word": "activity",
+    "phonetic american": "ækˈtɪvɪti",
+    "phonetic british": "ækˈtɪvɪti",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "活动",
+        "sentence": "The kids enjoyed the outdoor activities.",
+        "sentence translation": "孩子们喜欢户外活动。"
+      },
+      {
+        "meaning": "活跃，热闹",
+        "sentence": "There was a lot of activity in the marketplace.",
+        "sentence translation": "市场上非常热闹。"
+      }
+    ]
+  },
+  {
+    "word": "actor",
+    "phonetic american": "ˈæktər",
+    "phonetic british": "ˈæktə",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "男演员",
+        "sentence": "The actor won an award for his performance.",
+        "sentence translation": "这位男演员因其表演获得了奖项。"
+      }
+    ]
+  },
+  {
+    "word": "actress",
+    "phonetic american": "ˈæktrəs",
+    "phonetic british": "ˈæktrəs",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "女演员",
+        "sentence": "The actress starred in a famous movie.",
+        "sentence translation": "这位女演员主演了一部著名电影。"
+      }
+    ]
+  },
+  {
+    "word": "add",
+    "phonetic american": "æd",
+    "phonetic british": "æd",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "添加，增加",
+        "sentence": "Please add some sugar to my coffee.",
+        "sentence translation": "请在我的咖啡里加点糖。"
+      },
+      {
+        "meaning": "相加（数学）",
+        "sentence": "If you add five and three, you get eight.",
+        "sentence translation": "如果你把五和三相加，就得到八。"
+      }
+    ]
+  },
+  {
+    "word": "address",
+    "phonetic american": "əˈdrɛs",
+    "phonetic british": "əˈdres",
+    "kind": "n., verb",
+    "meaning list": [
+      {
+        "meaning": "地址（名词）",
+        "sentence": "He wrote his address on the form.",
+        "sentence translation": "他在表格上写了自己的地址。"
+      },
+      {
+        "meaning": "演讲，致辞（名词）",
+        "sentence": "The president gave an inspiring address.",
+        "sentence translation": "总统发表了鼓舞人心的演讲。"
+      },
+      {
+        "meaning": "致辞，处理（动词）",
+        "sentence": "The president addressed the nation on television.",
+        "sentence translation": "总统在电视上向全国发表讲话。"
+      }
+    ]
+  },
+  {
+    "word": "adult",
+    "phonetic american": "əˈdʌlt",
+    "phonetic british": "ˈædʌlt",
+    "kind": "n., adj.",
+    "meaning list": [
+      {
+        "meaning": "成年人（名词）",
+        "sentence": "This book is for adults only.",
+        "sentence translation": "这本书仅供成年人阅读。"
+      },
+      {
+        "meaning": "成年的（形容词）",
+        "sentence": "This movie is suitable for adult audiences.",
+        "sentence translation": "这部电影适合成年观众观看。"
+      }
+    ]
+  },
+  [
+    {
+      "word": "advice",
+      "phonetic american": "ədˈvaɪs",
+      "phonetic british": "ədˈvaɪs",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "建议，提议",
+          "sentence": "She gave me some useful advice.",
+          "sentence translation": "她给了我一些有用的建议。"
+        }
+      ]
+    },
+    {
+      "word": "afraid",
+      "phonetic american": "əˈfreɪd",
+      "phonetic british": "əˈfreɪd",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "害怕的，惊恐的",
+          "sentence": "She is afraid of spiders.",
+          "sentence translation": "她害怕蜘蛛。"
+        },
+        {
+          "meaning": "担心的",
+          "sentence": "I’m afraid we’re late for the meeting.",
+          "sentence translation": "我担心我们迟到了。"
+        }
+      ]
+    },
+    {
+      "word": "after",
+      "phonetic american": "ˈæftər",
+      "phonetic british": "ˈɑːftə",
+      "kind": "prep., conj., adv.",
+      "meaning list": [
+        {
+          "meaning": "在...之后（介词）",
+          "sentence": "We went to the park after lunch.",
+          "sentence translation": "我们午餐后去了公园。"
+        },
+        {
+          "meaning": "跟随，追逐（介词）",
+          "sentence": "He ran after the bus.",
+          "sentence translation": "他追着公交车跑。"
+        },
+        {
+          "meaning": "然后（连词）",
+          "sentence": "We went out after it stopped raining.",
+          "sentence translation": "雨停后我们出去。"
+        },
+        {
+          "meaning": "之后（副词）",
+          "sentence": "He arrived shortly after.",
+          "sentence translation": "他很快就到达了。"
+        }
+      ]
+    },
+    {
+      "word": "afternoon",
+      "phonetic american": "ˌæftərˈnuːn",
+      "phonetic british": "ˌɑːftəˈnuːn",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "下午",
+          "sentence": "Let's meet in the afternoon.",
+          "sentence translation": "我们下午见面吧。"
+        }
+      ]
+    },
+    {
+      "word": "again",
+      "phonetic american": "əˈɡen",
+      "phonetic british": "əˈɡeɪn",
+      "kind": "adv.",
+      "meaning list": [
+        {
+          "meaning": "再一次，重新",
+          "sentence": "Can you explain that again?",
+          "sentence translation": "你能再解释一遍吗？"
+        }
+      ]
+    },
+    {
+      "word": "age",
+      "phonetic american": "eɪdʒ",
+      "phonetic british": "eɪdʒ",
+      "kind": "n., v.",
+      "meaning list": [
+        {
+          "meaning": "年龄（名词）",
+          "sentence": "What is your age?",
+          "sentence translation": "你的年龄是多少？"
+        },
+        {
+          "meaning": "时代，时期（名词）",
+          "sentence": "The stone age is a prehistoric period.",
+          "sentence translation": "石器时代是史前时期。"
+        },
+        {
+          "meaning": "衰老，变旧（动词）",
+          "sentence": "Wine ages better when stored properly.",
+          "sentence translation": "葡萄酒在适当储存时会更好地陈化。"
+        }
+      ]
+    },
+    {
+      "word": "ago",
+      "phonetic american": "əˈɡoʊ",
+      "phonetic british": "əˈɡəʊ",
+      "kind": "adv.",
+      "meaning list": [
+        {
+          "meaning": "之前（时间表达）",
+          "sentence": "She left the house two hours ago.",
+          "sentence translation": "她两小时前离开了家。"
+        }
+      ]
+    },
+    {
+      "word": "agree",
+      "phonetic american": "əˈɡriː",
+      "phonetic british": "əˈɡriː",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "同意，赞同",
+          "sentence": "I agree with your opinion.",
+          "sentence translation": "我同意你的意见。"
+        },
+        {
+          "meaning": "达成一致",
+          "sentence": "They agreed to meet at 6 PM.",
+          "sentence translation": "他们同意在晚上六点见面。"
+        }
+      ]
+    },
+    {
+      "word": "air",
+      "phonetic american": "er",
+      "phonetic british": "eə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "空气",
+          "sentence": "The air is fresh in the morning.",
+          "sentence translation": "早晨的空气很清新。"
+        },
+        {
+          "meaning": "航空",
+          "sentence": "They traveled by air to New York.",
+          "sentence translation": "他们通过航空旅行到纽约。"
+        }
+      ]
+    },
+    {
+      "word": "airport",
+      "phonetic american": "ˈerˌpɔːrt",
+      "phonetic british": "ˈeəˌpɔːt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "机场",
+          "sentence": "We arrived at the airport early.",
+          "sentence translation": "我们早早到达了机场。"
+        }
+      ]
+    },
+    {
+      "word": "all",
+      "phonetic american": "ɔːl",
+      "phonetic british": "ɔːl",
+      "kind": "det., pron., adv.",
+      "meaning list": [
+        {
+          "meaning": "所有的，全部的（限定词）",
+          "sentence": "All students passed the exam.",
+          "sentence translation": "所有学生都通过了考试。"
+        },
+        {
+          "meaning": "每个人（代词）",
+          "sentence": "All were happy with the decision.",
+          "sentence translation": "每个人都对这个决定感到高兴。"
+        },
+        {
+          "meaning": "完全地（副词）",
+          "sentence": "All the tickets were sold out.",
+          "sentence translation": "所有的票都卖光了。"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "word": "also",
+      "phonetic american": "ˈɔːlsoʊ",
+      "phonetic british": "ˈɔːlsəʊ",
+      "kind": "adv.",
+      "meaning list": [
+        {
+          "meaning": "Ayrıca, aynı zamanda",
+          "sentence": "She is a doctor and also a writer.",
+          "sentence translation": "O, bir doktor ve aynı zamanda bir yazardır."
+        }
+      ]
+    },
+    {
+      "word": "always",
+      "phonetic american": "ˈɔːlweɪz",
+      "phonetic british": "ˈɔːlweɪz",
+      "kind": "adv.",
+      "meaning list": [
+        {
+          "meaning": "Her zaman",
+          "sentence": "She always wakes up early.",
+          "sentence translation": "O, her zaman erken uyanır."
+        }
+      ]
+    },
+    {
+      "word": "amazing",
+      "phonetic american": "əˈmeɪzɪŋ",
+      "phonetic british": "əˈmeɪzɪŋ",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "Harika, şaşırtıcı",
+          "sentence": "The view from the mountain is amazing.",
+          "sentence translation": "Dağdan manzara harika."
+        }
+      ]
+    },
+    {
+      "word": "and",
+      "phonetic american": "ænd",
+      "phonetic british": "ænd",
+      "kind": "conj.",
+      "meaning list": [
+        {
+          "meaning": "Ve",
+          "sentence": "She likes apples and oranges.",
+          "sentence translation": "O, elma ve portakal sever."
+        }
+      ]
+    },
+    {
+      "word": "angry",
+      "phonetic american": "ˈæŋɡri",
+      "phonetic british": "ˈæŋɡri",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "Kızgın, öfkeli",
+          "sentence": "He was angry because he missed the bus.",
+          "sentence translation": "Otobüsü kaçırdığı için kızgındı."
+        }
+      ]
+    },
+    {
+      "word": "animal",
+      "phonetic american": "ˈænɪməl",
+      "phonetic british": "ˈænɪməl",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "Hayvan",
+          "sentence": "The zoo has a variety of animals.",
+          "sentence translation": "Hayvanat bahçesinde çeşitli hayvanlar var."
+        }
+      ]
+    },
+    {
+      "word": "another",
+      "phonetic american": "əˈnʌðər",
+      "phonetic british": "əˈnʌðə",
+      "kind": "det./pron.",
+      "meaning list": [
+        {
+          "meaning": "Başka bir",
+          "sentence": "Would you like another cup of tea?",
+          "sentence translation": "Başka bir fincan çay ister misin?"
+        }
+      ]
+    },
+    {
+      "word": "answer",
+      "phonetic american": "ˈænsər",
+      "phonetic british": "ˈɑːnsə",
+      "kind": "n., v.",
+      "meaning list": [
+        {
+          "meaning": "Cevap (isim)",
+          "sentence": "His answer to the question was correct.",
+          "sentence translation": "Sorunun cevabı doğruydu."
+        },
+        {
+          "meaning": "Cevaplamak (fiil)",
+          "sentence": "She answered the phone quickly.",
+          "sentence translation": "Telefonu hızlıca cevapladı."
+        }
+      ]
+    },
+    {
+      "word": "any",
+      "phonetic american": "ˈɛni",
+      "phonetic british": "ˈɛni",
+      "kind": "det., pron., adv.",
+      "meaning list": [
+        {
+          "meaning": "Hiç, herhangi bir (belirleyici)",
+          "sentence": "Do you have any questions?",
+          "sentence translation": "Herhangi bir sorunuz var mı?"
+        },
+        {
+          "meaning": "Hiç (zamir)",
+          "sentence": "Do you have any questions?",
+          "sentence translation": "Hiç sorunuz var mı?"
+        },
+        {
+          "meaning": "Hiç (zarf)",
+          "sentence": "I don’t have any money.",
+          "sentence translation": "Hiç param yok."
+        }
+      ]
+    },
+    {
+      "word": "anyone",
+      "phonetic american": "ˈɛniˌwʌn",
+      "phonetic british": "ˈɛnɪwʌn",
+      "kind": "pron.",
+      "meaning list": [
+        {
+          "meaning": "Kimse, herhangi biri",
+          "sentence": "Does anyone know the answer?",
+          "sentence translation": "Cevabı bilen var mı?"
+        }
+      ]
+    },
+    {
+      "word": "anything",
+      "phonetic american": "ˈɛniˌθɪŋ",
+      "phonetic british": "ˈɛnɪθɪŋ",
+      "kind": "pron.",
+      "meaning list": [
+        {
+          "meaning": "Herhangi bir şey",
+          "sentence": "Is there anything I can do to help?",
+          "sentence translation": "Yardım edebileceğim herhangi bir şey var mı?"
+        }
+      ]
+    },
+    {
+      "word": "apartment",
+      "phonetic american": "əˈpɑːrtmənt",
+      "phonetic british": "əˈpɑːtmənt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "Daire (konut)",
+          "sentence": "They moved into a new apartment last week.",
+          "sentence translation": "Geçen hafta yeni bir daireye taşındılar."
+        }
+      ]
+    },
+    {
+      "word": "apple",
+      "phonetic american": "ˈæpəl",
+      "phonetic british": "ˈæpəl",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "Elma",
+          "sentence": "I ate an apple for breakfast.",
+          "sentence translation": "Kahvaltıda bir elma yedim."
+        }
+      ]
+    },
+    {
+      "word": "April",
+      "phonetic american": "ˈeɪprəl",
+      "phonetic british": "ˈeɪprəl",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "Nisan",
+          "sentence": "Her birthday is in April.",
+          "sentence translation": "Onun doğum günü Nisan ayında."
+        }
+      ]
+    },
+    {
+      "word": "area",
+      "phonetic american": "ˈɛriə",
+      "phonetic british": "ˈeəriə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "Alan, bölge",
+          "sentence": "This area is known for its natural beauty.",
+          "sentence translation": "Bu bölge doğal güzellikleriyle bilinir."
+        }
+      ]
+    },
+    {
+      "word": "arm",
+      "phonetic american": "ɑːrm",
+      "phonetic british": "ɑːm",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "Kol",
+          "sentence": "He broke his arm while playing basketball.",
+          "sentence translation": "Basketbol oynarken kolunu kırdı."
+        }
+      ]
+    },
+    {
+      "word": "around",
+      "phonetic american": "əˈraʊnd",
+      "phonetic british": "əˈraʊnd",
+      "kind": "prep., adv.",
+      "meaning list": [
+        {
+          "meaning": "Etrafında (edat)",
+          "sentence": "The kids were running around the park.",
+          "sentence translation": "Çocuklar parkın etrafında koşuyordu."
+        },
+        {
+          "meaning": "Yaklaşık (zarf)",
+          "sentence": "He arrived around 3 PM.",
+          "sentence translation": "Saat üç civarında geldi."
+        }
+      ]
+    },
+    {
+      "word": "arrive",
+      "phonetic american": "əˈraɪv",
+      "phonetic british": "əˈraɪv",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "Varış yapmak, ulaşmak",
+          "sentence": "They arrived at the hotel late at night.",
+          "sentence translation": "Gece geç saatlerde otele vardılar."
+        }
+      ]
+    },
+    {
+      "word": "art",
+      "phonetic american": "ɑːrt",
+      "phonetic british": "ɑːt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "Sanat",
+          "sentence": "The gallery exhibits modern art.",
+          "sentence translation": "Galeri, modern sanat sergiliyor."
+        }
+      ]
+    },
+    {
+      "word": "article",
+      "phonetic american": "ˈɑːrtɪkəl",
+      "phonetic british": "ˈɑːtɪkəl",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "Makale",
+          "sentence": "She wrote an article about climate change.",
+          "sentence translation": "İklim değişikliği hakkında bir makale yazdı."
+        },
+        {
+          "meaning": "Madde (hukuk/döküman)",
+          "sentence": "Article 5 explains the terms of the agreement.",
+          "sentence translation": "Madde 5, anlaşma şartlarını açıklar."
+        }
+      ]
+    },
+    {
+      "word": "artist",
+      "phonetic american": "ˈɑːrtɪst",
+      "phonetic british": "ˈɑːtɪst",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "Sanatçı, ressam",
+          "sentence": "The artist displayed his paintings in the gallery.",
+          "sentence translation": "Sanatçı, resimlerini galeride sergiledi."
+        }
+      ]
+    }
+  ][
+  {
+    "word": "as",
+    "phonetic american": "æz",
+    "phonetic british": "æz",
+    "kind": "prep.",
+    "meaning list": [
+      {
+        "meaning": "作为",
+        "sentence": "She works as a teacher.",
+        "sentence translation": "她作为一名教师工作。"
+      },
+      {
+        "meaning": "与...一样 (比较)",
+        "sentence": "He is as tall as his brother.",
+        "sentence translation": "他和他的兄弟一样高。"
+      }
+    ]
+  },
+  {
+    "word": "ask",
+    "phonetic american": "æsk",
+    "phonetic british": "ɑːsk",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "问",
+        "sentence": "Can I ask you a question?",
+        "sentence translation": "我可以问你一个问题吗？"
+      },
+      {
+        "meaning": "请求",
+        "sentence": "She asked for help with the project.",
+        "sentence translation": "她请求项目的帮助。"
+      }
+    ]
+  },
+  {
+    "word": "at",
+    "phonetic american": "æt",
+    "phonetic british": "æt",
+    "kind": "prep.",
+    "meaning list": [
+      {
+        "meaning": "在 (位置)",
+        "sentence": "She is at the library.",
+        "sentence translation": "她在图书馆。"
+      },
+      {
+        "meaning": "在 (时间)",
+        "sentence": "The class starts at 9 AM.",
+        "sentence translation": "课程在早上9点开始。"
+      }
+    ]
+  },
+  {
+    "word": "August",
+    "phonetic american": "ˈɔːɡəst",
+    "phonetic british": "ˈɔːɡəst",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "八月",
+        "sentence": "We are planning a vacation in August.",
+        "sentence translation": "我们计划在八月度假。"
+      }
+    ]
+  },
+  {
+    "word": "aunt",
+    "phonetic american": "ænt",
+    "phonetic british": "ɑːnt",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "姨妈, 婶婶",
+        "sentence": "My aunt lives in a small village.",
+        "sentence translation": "我的姨妈住在一个小村庄里。"
+      }
+    ]
+  },
+  {
+    "word": "autumn",
+    "phonetic american": "ˈɔːtəm",
+    "phonetic british": "ˈɔːtəm",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "秋天",
+        "sentence": "Autumn is my favorite season.",
+        "sentence translation": "秋天是我最喜欢的季节。"
+      }
+    ]
+  },
+  {
+    "word": "away",
+    "phonetic american": "əˈweɪ",
+    "phonetic british": "əˈweɪ",
+    "kind": "adv.",
+    "meaning list": [
+      {
+        "meaning": "远离",
+        "sentence": "She lives far away from the city.",
+        "sentence translation": "她住在远离城市的地方。"
+      },
+      {
+        "meaning": "离开 (动作)",
+        "sentence": "He walked away without saying a word.",
+        "sentence translation": "他什么话也没说就离开了。"
+      }
+    ]
+  },
+  {
+    "word": "baby",
+    "phonetic american": "ˈbeɪbi",
+    "phonetic british": "ˈbeɪbi",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "婴儿",
+        "sentence": "The baby is sleeping in the crib.",
+        "sentence translation": "婴儿在婴儿床上睡觉。"
+      }
+    ]
+  },
+  {
+    "word": "back",
+    "phonetic american": "bæk",
+    "phonetic british": "bæk",
+    "kind": "n., adv.",
+    "meaning list": [
+      {
+        "meaning": "背部 (名词)",
+        "sentence": "He injured his back while lifting a heavy box.",
+        "sentence translation": "他在搬重箱子时伤了背。"
+      },
+      {
+        "meaning": "回来 (副词)",
+        "sentence": "She came back from her trip yesterday.",
+        "sentence translation": "她昨天从旅行中回来。"
+      }
+    ]
+  },
+  {
+    "word": "bad",
+    "phonetic american": "bæd",
+    "phonetic british": "bæd",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "坏的",
+        "sentence": "The weather is bad today.",
+        "sentence translation": "今天的天气很差。"
+      },
+      {
+        "meaning": "错误的",
+        "sentence": "He made a bad decision.",
+        "sentence translation": "他做了一个错误的决定。"
+      }
+    ]
+  },
+  {
+    "word": "bag",
+    "phonetic american": "bæɡ",
+    "phonetic british": "bæɡ",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "包",
+        "sentence": "She packed her bag for the trip.",
+        "sentence translation": "她为旅行准备了包。"
+      }
+    ]
+  },
+  {
+    "word": "ball",
+    "phonetic american": "bɔːl",
+    "phonetic british": "bɔːl",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "球",
+        "sentence": "The kids were playing with a ball in the yard.",
+        "sentence translation": "孩子们在院子里玩球。"
+      }
+    ]
+  },
+  {
+    "word": "banana",
+    "phonetic american": "bəˈnænə",
+    "phonetic british": "bəˈnɑːnə",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "香蕉",
+        "sentence": "I had a banana for breakfast.",
+        "sentence translation": "我早餐吃了一个香蕉。"
+      }
+    ]
+  },
+  {
+    "word": "band",
+    "phonetic american": "bænd",
+    "phonetic british": "bænd",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "乐队",
+        "sentence": "The band performed live at the concert.",
+        "sentence translation": "乐队在音乐会上进行现场表演。"
+      },
+      {
+        "meaning": "带子, 绷带",
+        "sentence": "She tied her hair with a rubber band.",
+        "sentence translation": "她用橡皮带扎了头发。"
+      }
+    ]
+  },
+  {
+    "word": "bank",
+    "phonetic american": "bæŋk",
+    "phonetic british": "bæŋk",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "银行",
+        "sentence": "He deposited money in the bank.",
+        "sentence translation": "他把钱存进了银行。"
+      }
+    ]
+  },
+  {
+    "word": "bath",
+    "phonetic american": "bæθ",
+    "phonetic british": "bɑːθ",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "浴",
+        "sentence": "She took a warm bath before bed.",
+        "sentence translation": "她在睡觉前洗了个热水澡。"
+      }
+    ]
+  },
+  {
+    "word": "better",
+    "phonetic american": "ˈbɛtər",
+    "phonetic british": "ˈbɛtə",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "更好的",
+        "sentence": "This book is better than the one I read last week.",
+        "sentence translation": "这本书比我上周读的那本好。"
+      }
+    ]
+  },
+  {
+    "word": "between",
+    "phonetic american": "bɪˈtwiːn",
+    "phonetic british": "bɪˈtwiːn",
+    "kind": "prep.",
+    "meaning list": [
+      {
+        "meaning": "在...之间",
+        "sentence": "There is a table between the two chairs.",
+        "sentence translation": "两把椅子之间有一张桌子。"
+      }
+    ]
+  },
+  {
+    "word": "bicycle",
+    "phonetic american": "ˈbaɪsɪkəl",
+    "phonetic british": "ˈbaɪsɪkl",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "自行车",
+        "sentence": "He rides his bicycle to work every day.",
+        "sentence translation": "他每天骑自行车上班。"
+      }
+    ]
+  },
+  {
+    "word": "big",
+    "phonetic american": "bɪɡ",
+    "phonetic british": "bɪɡ",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "大的",
+        "sentence": "They live in a big house near the beach.",
+        "sentence translation": "他们住在海滩附近的一栋大房子里。"
+      }
+    ]
+  }
+]
+  [
+    {
+      "word": "bike",
+      "phonetic american": "baɪk",
+      "phonetic british": "baɪk",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "自行车",
+          "sentence": "She bought a new bike for her son.",
+          "sentence translation": "她为她的儿子买了一辆新自行车。"
+        }
+      ]
+    },
+    {
+      "word": "bill",
+      "phonetic american": "bɪl",
+      "phonetic british": "bɪl",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "账单",
+          "sentence": "I need to pay the electricity bill today.",
+          "sentence translation": "我今天需要支付电费账单。"
+        },
+        {
+          "meaning": "账单 (餐厅)",
+          "sentence": "Could you bring us the bill, please?",
+          "sentence translation": "请把账单拿给我们好吗？"
+        }
+      ]
+    },
+    {
+      "word": "bird",
+      "phonetic american": "bɜːrd",
+      "phonetic british": "bɜːd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "鸟",
+          "sentence": "The bird was singing in the tree.",
+          "sentence translation": "那只鸟在树上唱歌。"
+        }
+      ]
+    },
+    {
+      "word": "birthday",
+      "phonetic american": "ˈbɜːrθˌdeɪ",
+      "phonetic british": "ˈbɜːθˌdeɪ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "生日",
+          "sentence": "Her birthday is in May.",
+          "sentence translation": "她的生日在五月。"
+        }
+      ]
+    },
+    {
+      "word": "black",
+      "phonetic american": "blæk",
+      "phonetic british": "blæk",
+      "kind": "adj., n.",
+      "meaning list": [
+        {
+          "meaning": "黑色 (形容词)",
+          "sentence": "She wore a black dress to the party.",
+          "sentence translation": "她穿了一件黑色的裙子去参加派对。"
+        },
+        {
+          "meaning": "黑色 (名词)",
+          "sentence": "Black is his favorite color.",
+          "sentence translation": "黑色是他最喜欢的颜色。"
+        }
+      ]
+    },
+    {
+      "word": "blog",
+      "phonetic american": "blɔːɡ",
+      "phonetic british": "blɒɡ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "博客，网络日志",
+          "sentence": "She writes a travel blog about her adventures.",
+          "sentence translation": "她写了一个关于她冒险的旅行博客。"
+        }
+      ]
+    },
+    {
+      "word": "blonde",
+      "phonetic american": "blɒnd",
+      "phonetic british": "blɒnd",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "金发",
+          "sentence": "She has blonde hair and blue eyes.",
+          "sentence translation": "她有金色的头发和蓝色的眼睛。"
+        }
+      ]
+    },
+    {
+      "word": "blue",
+      "phonetic american": "bluː",
+      "phonetic british": "bluː",
+      "kind": "adj., n.",
+      "meaning list": [
+        {
+          "meaning": "蓝色 (形容词)",
+          "sentence": "The sky is blue today.",
+          "sentence translation": "今天的天空是蓝色的。"
+        },
+        {
+          "meaning": "蓝色 (名词)",
+          "sentence": "Blue is her favorite color.",
+          "sentence translation": "蓝色是她最喜欢的颜色。"
+        }
+      ]
+    },
+    {
+      "word": "boat",
+      "phonetic american": "boʊt",
+      "phonetic british": "bəʊt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "船",
+          "sentence": "We rented a boat to explore the lake.",
+          "sentence translation": "我们租了一艘船来探索湖泊。"
+        }
+      ]
+    },
+    {
+      "word": "body",
+      "phonetic american": "ˈbɑːdi",
+      "phonetic british": "ˈbɒdi",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "身体",
+          "sentence": "He exercises every day to stay fit and keep his body healthy.",
+          "sentence translation": "他每天锻炼，以保持健康并保持身体健康。"
+        }
+      ]
+    },
+    {
+      "word": "book",
+      "phonetic american": "bʊk",
+      "phonetic british": "bʊk",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "书",
+          "sentence": "She borrowed a book from the library.",
+          "sentence translation": "她从图书馆借了一本书。"
+        }
+      ]
+    },
+    {
+      "word": "boot",
+      "phonetic american": "buːt",
+      "phonetic british": "buːt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "靴子",
+          "sentence": "He wore boots to walk in the snow.",
+          "sentence translation": "他穿着靴子在雪地里走。"
+        }
+      ]
+    },
+    {
+      "word": "bored",
+      "phonetic american": "bɔːrd",
+      "phonetic british": "bɔːd",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "无聊",
+          "sentence": "She felt bored during the lecture.",
+          "sentence translation": "她在讲座中感到无聊。"
+        }
+      ]
+    },
+    {
+      "word": "boring",
+      "phonetic american": "ˈbɔːrɪŋ",
+      "phonetic british": "ˈbɔːrɪŋ",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "无聊的",
+          "sentence": "The movie was so boring that I fell asleep.",
+          "sentence translation": "这部电影无聊到我睡着了。"
+        }
+      ]
+    },
+    {
+      "word": "born",
+      "phonetic american": "bɔːrn",
+      "phonetic british": "bɔːn",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "出生",
+          "sentence": "He was born in 1995.",
+          "sentence translation": "他出生于1995年。"
+        }
+      ]
+    },
+    {
+      "word": "both",
+      "phonetic american": "boʊθ",
+      "phonetic british": "bəʊθ",
+      "kind": "det./pron.",
+      "meaning list": [
+        {
+          "meaning": "两者都",
+          "sentence": "Both of them are great musicians.",
+          "sentence translation": "他们两个都是伟大的音乐家。"
+        }
+      ]
+    },
+    {
+      "word": "bottle",
+      "phonetic american": "ˈbɑːtl",
+      "phonetic british": "ˈbɒtl",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "瓶子",
+          "sentence": "He drank a bottle of water.",
+          "sentence translation": "他喝了一瓶水。"
+        }
+      ]
+    },
+    {
+      "word": "box",
+      "phonetic american": "bɑːks",
+      "phonetic british": "bɒks",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "盒子",
+          "sentence": "She opened the box to see what was inside.",
+          "sentence translation": "她打开盒子看看里面有什么。"
+        }
+      ]
+    },
+    {
+      "word": "boy",
+      "phonetic american": "bɔɪ",
+      "phonetic british": "bɔɪ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "男孩",
+          "sentence": "The boy is playing with his dog.",
+          "sentence translation": "男孩正在和他的狗玩。"
+        }
+      ]
+    },
+    {
+      "word": "boyfriend",
+      "phonetic american": "ˈbɔɪˌfrɛnd",
+      "phonetic british": "ˈbɔɪˌfrɛnd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "男朋友",
+          "sentence": "Her boyfriend bought her flowers.",
+          "sentence translation": "她的男朋友给她买了花。"
+        }
+      ]
+    },
+    {
+      "word": "bread",
+      "phonetic american": "brɛd",
+      "phonetic british": "brɛd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "面包",
+          "sentence": "She bought a loaf of bread from the bakery.",
+          "sentence translation": "她从面包店买了一条面包。"
+        }
+      ]
+    },
+    {
+      "word": "break",
+      "phonetic american": "breɪk",
+      "phonetic british": "breɪk",
+      "kind": "v., n.",
+      "meaning list": [
+        {
+          "meaning": "打破 (动词)",
+          "sentence": "He accidentally broke the glass.",
+          "sentence translation": "他不小心打破了玻璃。"
+        },
+        {
+          "meaning": "休息 (名词)",
+          "sentence": "We took a short break during the meeting.",
+          "sentence translation": "我们在会议期间休息了一下。"
+        }
+      ]
+    }
+  ]
+  [
+    {
+      "word": "breakfast",
+      "phonetic american": "ˈbrɛkfəst",
+      "phonetic british": "ˈbrɛkfəst",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "早餐",
+          "sentence": "She had eggs and toast for breakfast.",
+          "sentence translation": "她吃了鸡蛋和吐司当早餐。"
+        }
+      ]
+    },
+    {
+      "word": "bring",
+      "phonetic american": "brɪŋ",
+      "phonetic british": "brɪŋ",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "带来",
+          "sentence": "Can you bring me a glass of water?",
+          "sentence translation": "你能给我拿一杯水吗？"
+        }
+      ]
+    },
+    {
+      "word": "brother",
+      "phonetic american": "ˈbrʌðər",
+      "phonetic british": "ˈbrʌðə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "哥哥/弟弟",
+          "sentence": "My brother is two years younger than me.",
+          "sentence translation": "我的兄弟比我小两岁。"
+        }
+      ]
+    },
+    {
+      "word": "brown",
+      "phonetic american": "braʊn",
+      "phonetic british": "braʊn",
+      "kind": "adj., n.",
+      "meaning list": [
+        {
+          "meaning": "棕色 (形容词)",
+          "sentence": "She wore a brown coat.",
+          "sentence translation": "她穿了一件棕色外套。"
+        },
+        {
+          "meaning": "棕色 (名词)",
+          "sentence": "Brown is the color of the soil.",
+          "sentence translation": "棕色是土壤的颜色。"
+        }
+      ]
+    },
+    {
+      "word": "build",
+      "phonetic american": "bɪld",
+      "phonetic british": "bɪld",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "建造",
+          "sentence": "They plan to build a new bridge next year.",
+          "sentence translation": "他们计划明年建一座新桥。"
+        }
+      ]
+    },
+    {
+      "word": "building",
+      "phonetic american": "ˈbɪldɪŋ",
+      "phonetic british": "ˈbɪldɪŋ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "建筑物",
+          "sentence": "The building has ten floors.",
+          "sentence translation": "这座建筑有十层楼。"
+        }
+      ]
+    },
+    {
+      "word": "bus",
+      "phonetic american": "bʌs",
+      "phonetic british": "bʌs",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "公交车",
+          "sentence": "We took a bus to the city center.",
+          "sentence translation": "我们乘坐公交车到市中心。"
+        }
+      ]
+    },
+    {
+      "word": "business",
+      "phonetic american": "ˈbɪznɪs",
+      "phonetic british": "ˈbɪznɪs",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "商业",
+          "sentence": "He runs a successful business.",
+          "sentence translation": "他经营着一个成功的生意。"
+        }
+      ]
+    },
+    {
+      "word": "busy",
+      "phonetic american": "ˈbɪzi",
+      "phonetic british": "ˈbɪzi",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "忙碌的",
+          "sentence": "She is busy with her work today.",
+          "sentence translation": "她今天忙于工作。"
+        }
+      ]
+    },
+    {
+      "word": "but",
+      "phonetic american": "bʌt",
+      "phonetic british": "bʌt",
+      "kind": "conj.",
+      "meaning list": [
+        {
+          "meaning": "但是",
+          "sentence": "I like the movie, but it was too long.",
+          "sentence translation": "我喜欢这部电影，但它太长了。"
+        }
+      ]
+    },
+    {
+      "word": "butter",
+      "phonetic american": "ˈbʌtər",
+      "phonetic british": "ˈbʌtə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "黄油",
+          "sentence": "She spread butter on the bread.",
+          "sentence translation": "她在面包上抹了黄油。"
+        }
+      ]
+    },
+    {
+      "word": "buy",
+      "phonetic american": "baɪ",
+      "phonetic british": "baɪ",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "购买",
+          "sentence": "I need to buy some groceries for dinner.",
+          "sentence translation": "我需要买些晚餐的食材。"
+        }
+      ]
+    },
+    {
+      "word": "by",
+      "phonetic american": "baɪ",
+      "phonetic british": "baɪ",
+      "kind": "prep.",
+      "meaning list": [
+        {
+          "meaning": "在...旁边",
+          "sentence": "The restaurant is by the river.",
+          "sentence translation": "餐厅在河边。"
+        },
+        {
+          "meaning": "由",
+          "sentence": "This book was written by a famous author.",
+          "sentence translation": "这本书是由一位著名作者写的。"
+        }
+      ]
+    },
+    {
+      "word": "bye",
+      "phonetic american": "baɪ",
+      "phonetic british": "baɪ",
+      "kind": "exclam.",
+      "meaning list": [
+        {
+          "meaning": "再见",
+          "sentence": "Bye! See you tomorrow.",
+          "sentence translation": "再见！明天见。"
+        }
+      ]
+    },
+    {
+      "word": "cafe",
+      "phonetic american": "kæˈfeɪ",
+      "phonetic british": "ˈkæfeɪ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "咖啡馆",
+          "sentence": "We had coffee at a small cafe near the park.",
+          "sentence translation": "我们在公园附近的一家小咖啡馆喝了咖啡。"
+        }
+      ]
+    },
+    {
+      "word": "cake",
+      "phonetic american": "keɪk",
+      "phonetic british": "keɪk",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "蛋糕",
+          "sentence": "She baked a chocolate cake for the party.",
+          "sentence translation": "她为派对烤了一个巧克力蛋糕。"
+        }
+      ]
+    },
+    {
+      "word": "call",
+      "phonetic american": "kɔːl",
+      "phonetic british": "kɔːl",
+      "kind": "v., n.",
+      "meaning list": [
+        {
+          "meaning": "打电话",
+          "sentence": "I need to call my mom.",
+          "sentence translation": "我需要给妈妈打电话。"
+        },
+        {
+          "meaning": "电话",
+          "sentence": "She received a call from her boss.",
+          "sentence translation": "她接到了老板的电话。"
+        }
+      ]
+    },
+    {
+      "word": "camera",
+      "phonetic american": "ˈkæmərə",
+      "phonetic british": "ˈkæmərə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "相机",
+          "sentence": "He bought a new camera for his photography hobby.",
+          "sentence translation": "他为自己的摄影爱好买了一台新相机。"
+        }
+      ]
+    },
+    {
+      "word": "can",
+      "phonetic american": "kæn",
+      "phonetic british": "kæn",
+      "kind": "modal v.",
+      "meaning list": [
+        {
+          "meaning": "能够",
+          "sentence": "She can play the piano very well.",
+          "sentence translation": "她钢琴弹得很好。"
+        }
+      ]
+    },
+    {
+      "word": "cannot",
+      "phonetic american": "ˈkænˌnɑːt",
+      "phonetic british": "ˈkænɒt",
+      "kind": "modal v.",
+      "meaning list": [
+        {
+          "meaning": "不能",
+          "sentence": "I cannot swim in deep water.",
+          "sentence translation": "我不能在深水中游泳。"
+        }
+      ]
+    },
+    {
+      "word": "capital",
+      "phonetic american": "ˈkæpɪtl",
+      "phonetic british": "ˈkæpɪtl",
+      "kind": "n., adj.",
+      "meaning list": [
+        {
+          "meaning": "首都",
+          "sentence": "Paris is the capital of France.",
+          "sentence translation": "巴黎是法国的首都。"
+        },
+        {
+          "meaning": "大写字母",
+          "sentence": "Write your name in capital letters.",
+          "sentence translation": "请用大写字母写下你的名字。"
+        }
+      ]
+    },
+    {
+      "word": "car",
+      "phonetic american": "kɑːr",
+      "phonetic british": "kɑː",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "汽车",
+          "sentence": "He drives a red car.",
+          "sentence translation": "他开着一辆红色的汽车。"
+        }
+      ]
+    }
+  ]
+  [
+    {
+      "word": "card",
+      "phonetic american": "kɑːrd",
+      "phonetic british": "kɑːd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "卡片",
+          "sentence": "I sent her a birthday card.",
+          "sentence translation": "我给她寄了一张生日卡。"
+        }
+      ]
+    },
+    {
+      "word": "career",
+      "phonetic american": "kəˈrɪr",
+      "phonetic british": "kəˈrɪə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "事业",
+          "sentence": "She is pursuing a career in medicine.",
+          "sentence translation": "她正在追求医学事业。"
+        }
+      ]
+    },
+    {
+      "word": "carrot",
+      "phonetic american": "ˈkærət",
+      "phonetic british": "ˈkærət",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "胡萝卜",
+          "sentence": "Rabbits love to eat carrots.",
+          "sentence translation": "兔子喜欢吃胡萝卜。"
+        }
+      ]
+    },
+    {
+      "word": "carry",
+      "phonetic american": "ˈkæri",
+      "phonetic british": "ˈkæri",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "携带",
+          "sentence": "She carried the heavy bag up the stairs.",
+          "sentence translation": "她把沉重的包包提上了楼梯。"
+        }
+      ]
+    },
+    {
+      "word": "cat",
+      "phonetic american": "kæt",
+      "phonetic british": "kæt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "猫",
+          "sentence": "The cat is sleeping on the sofa.",
+          "sentence translation": "猫在沙发上睡觉。"
+        }
+      ]
+    },
+    {
+      "word": "CD",
+      "phonetic american": "siːˈdiː",
+      "phonetic british": "siːˈdiː",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "CD, 光盘",
+          "sentence": "I bought a new CD of my favorite band.",
+          "sentence translation": "我买了我最喜欢的乐队的新CD。"
+        }
+      ]
+    },
+    {
+      "word": "cent",
+      "phonetic american": "sɛnt",
+      "phonetic british": "sɛnt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "分 (货币)",
+          "sentence": "The candy costs fifty cents.",
+          "sentence translation": "糖果花了五十美分。"
+        }
+      ]
+    },
+    {
+      "word": "centre",
+      "phonetic american": "ˈsɛntər",
+      "phonetic british": "ˈsɛntə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "中心",
+          "sentence": "The shopping centre is very crowded.",
+          "sentence translation": "购物中心非常拥挤。"
+        }
+      ]
+    },
+    {
+      "word": "century",
+      "phonetic american": "ˈsɛnʧəri",
+      "phonetic british": "ˈsɛnʧəri",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "世纪",
+          "sentence": "The 19th century was a period of great change.",
+          "sentence translation": "19世纪是一个大变革的时期。"
+        }
+      ]
+    },
+    {
+      "word": "chair",
+      "phonetic american": "ʧɛr",
+      "phonetic british": "ʧɛə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "椅子",
+          "sentence": "She sat on a wooden chair by the window.",
+          "sentence translation": "她坐在窗边的一把木椅子上。"
+        }
+      ]
+    },
+    {
+      "word": "change",
+      "phonetic american": "ʧeɪnʤ",
+      "phonetic british": "ʧeɪnʤ",
+      "kind": "v., n.",
+      "meaning list": [
+        {
+          "meaning": "改变 (动词)",
+          "sentence": "She changed her hairstyle.",
+          "sentence translation": "她改变了她的发型。"
+        },
+        {
+          "meaning": "变化 (名词)",
+          "sentence": "There has been a change in the schedule.",
+          "sentence translation": "时间表发生了变化。"
+        }
+      ]
+    },
+    {
+      "word": "chart",
+      "phonetic american": "ʧɑːrt",
+      "phonetic british": "ʧɑːt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "图表",
+          "sentence": "The teacher drew a chart on the board.",
+          "sentence translation": "老师在黑板上画了一个图表。"
+        }
+      ]
+    },
+    {
+      "word": "cheap",
+      "phonetic american": "ʧiːp",
+      "phonetic british": "ʧiːp",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "便宜",
+          "sentence": "This store sells cheap clothes.",
+          "sentence translation": "这家店卖便宜的衣服。"
+        }
+      ]
+    },
+    {
+      "word": "check",
+      "phonetic american": "ʧɛk",
+      "phonetic british": "ʧɛk",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "检查",
+          "sentence": "Can you check if the door is locked?",
+          "sentence translation": "你能检查一下门是否锁好了吗？"
+        }
+      ]
+    },
+    {
+      "word": "cheese",
+      "phonetic american": "ʧiːz",
+      "phonetic british": "ʧiːz",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "奶酪",
+          "sentence": "Would you like some cheese on your sandwich?",
+          "sentence translation": "你想在你的三明治里加点奶酪吗？"
+        }
+      ]
+    },
+    {
+      "word": "chicken",
+      "phonetic american": "ˈʧɪkən",
+      "phonetic british": "ˈʧɪkɪn",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "鸡肉",
+          "sentence": "She cooked chicken for dinner.",
+          "sentence translation": "她做了鸡肉作为晚餐。"
+        }
+      ]
+    },
+    {
+      "word": "child",
+      "phonetic american": "ʧaɪld",
+      "phonetic british": "ʧaɪld",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "孩子",
+          "sentence": "The child was playing in the garden.",
+          "sentence translation": "孩子在花园里玩耍。"
+        }
+      ]
+    },
+    {
+      "word": "chocolate",
+      "phonetic american": "ˈʧɑːklət",
+      "phonetic british": "ˈʧɒklət",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "巧克力",
+          "sentence": "He bought a bar of chocolate from the store.",
+          "sentence translation": "他从商店买了一块巧克力。"
+        }
+      ]
+    },
+    {
+      "word": "choose",
+      "phonetic american": "ʧuːz",
+      "phonetic british": "ʧuːz",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "选择",
+          "sentence": "You can choose any color you like.",
+          "sentence translation": "你可以选择你喜欢的任何颜色。"
+        }
+      ]
+    },
+    {
+      "word": "cinema",
+      "phonetic american": "ˈsɪnəmə",
+      "phonetic british": "ˈsɪnəmə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "电影院",
+          "sentence": "We went to the cinema to watch a new movie.",
+          "sentence translation": "我们去了电影院看一部新电影。"
+        }
+      ]
+    },
+    {
+      "word": "city",
+      "phonetic american": "ˈsɪti",
+      "phonetic british": "ˈsɪti",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "城市",
+          "sentence": "New York is a very big city.",
+          "sentence translation": "纽约是一个非常大的城市。"
+        }
+      ]
+    },
+    {
+      "word": "class",
+      "phonetic american": "klæs",
+      "phonetic british": "klɑːs",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "班级",
+          "sentence": "The class begins at 8 AM.",
+          "sentence translation": "班级在早上8点开始。"
+        }
+      ]
+    }
+  ]
+  [
+    {
+      "word": "classroom",
+      "phonetic american": "ˈklæsˌruːm",
+      "phonetic british": "ˈklɑːsruːm",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "教室",
+          "sentence": "The classroom was full of students.",
+          "sentence translation": "教室里挤满了学生。"
+        }
+      ]
+    },
+    {
+      "word": "clean",
+      "phonetic american": "kliːn",
+      "phonetic british": "kliːn",
+      "kind": "adj., v.",
+      "meaning list": [
+        {
+          "meaning": "干净的（形容词）",
+          "sentence": "The kitchen is very clean.",
+          "sentence translation": "厨房非常干净。"
+        },
+        {
+          "meaning": "清洁（动词）",
+          "sentence": "She cleaned the house yesterday.",
+          "sentence translation": "她昨天打扫了房子。"
+        }
+      ]
+    },
+    {
+      "word": "climb",
+      "phonetic american": "klaɪm",
+      "phonetic british": "klaɪm",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "爬",
+          "sentence": "They climbed the mountain together.",
+          "sentence translation": "他们一起爬山。"
+        }
+      ]
+    },
+    {
+      "word": "clock",
+      "phonetic american": "klɑːk",
+      "phonetic british": "klɒk",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "时钟（墙钟或桌钟）",
+          "sentence": "The clock on the wall shows 10 o'clock.",
+          "sentence translation": "墙上的时钟显示是10点。"
+        }
+      ]
+    },
+    {
+      "word": "close",
+      "phonetic american": "kloʊz",
+      "phonetic british": "kləʊz",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "关",
+          "sentence": "Please close the door when you leave.",
+          "sentence translation": "离开时请关上门。"
+        }
+      ]
+    },
+    {
+      "word": "clothes",
+      "phonetic american": "kloʊðz",
+      "phonetic british": "kləʊðz",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "衣服",
+          "sentence": "She bought some new clothes for winter.",
+          "sentence translation": "她为冬天买了一些新衣服。"
+        }
+      ]
+    },
+    {
+      "word": "club",
+      "phonetic american": "klʌb",
+      "phonetic british": "klʌb",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "俱乐部",
+          "sentence": "He joined the football club at school.",
+          "sentence translation": "他加入了学校的足球俱乐部。"
+        }
+      ]
+    },
+    {
+      "word": "coat",
+      "phonetic american": "koʊt",
+      "phonetic british": "kəʊt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "外套，夹克",
+          "sentence": "She wore a warm coat because it was cold.",
+          "sentence translation": "因为很冷，她穿了一件温暖的外套。"
+        }
+      ]
+    },
+    {
+      "word": "coffee",
+      "phonetic american": "ˈkɔːfi",
+      "phonetic british": "ˈkɒfi",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "咖啡",
+          "sentence": "Would you like a cup of coffee?",
+          "sentence translation": "你想要一杯咖啡吗？"
+        }
+      ]
+    },
+    {
+      "word": "cold",
+      "phonetic american": "koʊld",
+      "phonetic british": "kəʊld",
+      "kind": "adj., n.",
+      "meaning list": [
+        {
+          "meaning": "寒冷的（形容词）",
+          "sentence": "It’s very cold outside today.",
+          "sentence translation": "今天外面非常冷。"
+        },
+        {
+          "meaning": "感冒（名词）",
+          "sentence": "He has a cold and is staying in bed.",
+          "sentence translation": "他感冒了，正在床上休息。"
+        }
+      ]
+    },
+    {
+      "word": "college",
+      "phonetic american": "ˈkɑːlɪʤ",
+      "phonetic british": "ˈkɒlɪʤ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "大学",
+          "sentence": "She is studying engineering at college.",
+          "sentence translation": "她在大学学习工程学。"
+        }
+      ]
+    },
+    {
+      "word": "colour",
+      "phonetic american": "ˈkʌlər",
+      "phonetic british": "ˈkʌlə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "颜色",
+          "sentence": "What is your favorite colour?",
+          "sentence translation": "你最喜欢的颜色是什么？"
+        }
+      ]
+    },
+    {
+      "word": "come",
+      "phonetic american": "kʌm",
+      "phonetic british": "kʌm",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "来",
+          "sentence": "She will come to the party tonight.",
+          "sentence translation": "她今晚会来参加派对。"
+        }
+      ]
+    },
+    {
+      "word": "common",
+      "phonetic american": "ˈkɑːmən",
+      "phonetic british": "ˈkɒmən",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "常见的，普遍的",
+          "sentence": "This is a common problem among students.",
+          "sentence translation": "这是学生中常见的问题。"
+        }
+      ]
+    },
+    {
+      "word": "company",
+      "phonetic american": "ˈkʌmpəni",
+      "phonetic british": "ˈkʌmpəni",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "公司",
+          "sentence": "He works for a software company.",
+          "sentence translation": "他在一家软件公司工作。"
+        }
+      ]
+    },
+    {
+      "word": "compare",
+      "phonetic american": "kəmˈpɛr",
+      "phonetic british": "kəmˈpeə",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "比较",
+          "sentence": "It’s easy to compare prices online.",
+          "sentence translation": "在线比较价格很容易。"
+        }
+      ]
+    },
+    {
+      "word": "complete",
+      "phonetic american": "kəmˈpliːt",
+      "phonetic british": "kəmˈpliːt",
+      "kind": "adj., v.",
+      "meaning list": [
+        {
+          "meaning": "完整的（形容词）",
+          "sentence": "The report is now complete.",
+          "sentence translation": "报告现在已经完成。"
+        },
+        {
+          "meaning": "完成（动词）",
+          "sentence": "She completed the project on time.",
+          "sentence translation": "她按时完成了这个项目。"
+        }
+      ]
+    },
+    {
+      "word": "computer",
+      "phonetic american": "kəmˈpjuːtər",
+      "phonetic british": "kəmˈpjuːtə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "电脑",
+          "sentence": "He bought a new computer for his office.",
+          "sentence translation": "他为他的办公室买了一台新电脑。"
+        }
+      ]
+    },
+    {
+      "word": "concert",
+      "phonetic american": "ˈkɑːnsɚt",
+      "phonetic british": "ˈkɒnsət",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "音乐会",
+          "sentence": "We went to a live concert last night.",
+          "sentence translation": "我们昨晚去参加了一个现场音乐会。"
+        }
+      ]
+    },
+    {
+      "word": "conversation",
+      "phonetic american": "ˌkɑːnvɚˈseɪʃən",
+      "phonetic british": "ˌkɒnvəˈseɪʃən",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "对话，谈话",
+          "sentence": "They had a long conversation about politics.",
+          "sentence translation": "他们进行了关于政治的长时间对话。"
+        }
+      ]
+    },
+    {
+      "word": "cook",
+      "phonetic american": "kʊk",
+      "phonetic british": "kʊk",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "烹饪",
+          "sentence": "He cooks dinner every evening.",
+          "sentence translation": "他每天晚上做晚餐。"
+        }
+      ]
+    },
+    {
+      "word": "cooking",
+      "phonetic american": "ˈkʊkɪŋ",
+      "phonetic british": "ˈkʊkɪŋ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "烹饪",
+          "sentence": "She enjoys cooking for her family.",
+          "sentence translation": "她喜欢为她的家人做饭。"
+        }
+      ]
+    }
+  ]
+  [
+    {
+      "word": "cool",
+      "phonetic american": "kuːl",
+      "phonetic british": "kuːl",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "凉爽",
+          "sentence": "The weather is cool in the evenings.",
+          "sentence translation": "晚上天气凉爽。"
+        },
+        {
+          "meaning": "酷的，棒的",
+          "sentence": "That’s a really cool idea!",
+          "sentence translation": "那真是个很棒的主意！"
+        }
+      ]
+    },
+    {
+      "word": "correct",
+      "phonetic american": "kəˈrɛkt",
+      "phonetic british": "kəˈrɛkt",
+      "kind": "adj., v.",
+      "meaning list": [
+        {
+          "meaning": "正确的（形容词）",
+          "sentence": "Your answer is correct.",
+          "sentence translation": "你的答案是正确的。"
+        },
+        {
+          "meaning": "纠正（动词）",
+          "sentence": "She corrected the errors in the report.",
+          "sentence translation": "她纠正了报告中的错误。"
+        }
+      ]
+    },
+    {
+      "word": "cost",
+      "phonetic american": "kɔːst",
+      "phonetic british": "kɒst",
+      "kind": "n., v.",
+      "meaning list": [
+        {
+          "meaning": "成本（名词）",
+          "sentence": "The cost of living is high in big cities.",
+          "sentence translation": "大城市的生活成本很高。"
+        },
+        {
+          "meaning": "花费（动词）",
+          "sentence": "This car costs a lot of money.",
+          "sentence translation": "这辆车花了很多钱。"
+        }
+      ]
+    },
+    {
+      "word": "could",
+      "phonetic american": "kʊd",
+      "phonetic british": "kʊd",
+      "kind": "modal v.",
+      "meaning list": [
+        {
+          "meaning": "能够（过去式）",
+          "sentence": "She could swim when she was five.",
+          "sentence translation": "她五岁时能游泳。"
+        }
+      ]
+    },
+    {
+      "word": "country",
+      "phonetic american": "ˈkʌntri",
+      "phonetic british": "ˈkʌntri",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "国家",
+          "sentence": "Turkey is a beautiful country.",
+          "sentence translation": "土耳其是一个美丽的国家。"
+        }
+      ]
+    },
+    {
+      "word": "course",
+      "phonetic american": "kɔːrs",
+      "phonetic british": "kɔːs",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "课程，课堂",
+          "sentence": "She is taking a language course.",
+          "sentence translation": "她正在参加一门语言课程。"
+        }
+      ]
+    },
+    {
+      "word": "cousin",
+      "phonetic american": "ˈkʌzən",
+      "phonetic british": "ˈkʌzn",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "表兄弟/表姐妹",
+          "sentence": "I visited my cousin last weekend.",
+          "sentence translation": "上周末我拜访了我的表兄/表姐。"
+        }
+      ]
+    },
+    {
+      "word": "cow",
+      "phonetic american": "kaʊ",
+      "phonetic british": "kaʊ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "奶牛",
+          "sentence": "The cow is grazing in the field.",
+          "sentence translation": "奶牛正在田里吃草。"
+        }
+      ]
+    },
+    {
+      "word": "cream",
+      "phonetic american": "kriːm",
+      "phonetic british": "kriːm",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "奶油",
+          "sentence": "She added cream to the coffee.",
+          "sentence translation": "她在咖啡里加了奶油。"
+        }
+      ]
+    },
+    {
+      "word": "create",
+      "phonetic american": "kriˈeɪt",
+      "phonetic british": "kriˈeɪt",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "创造，创造出",
+          "sentence": "The artist created a beautiful painting.",
+          "sentence translation": "这位艺术家创作了一幅美丽的画作。"
+        }
+      ]
+    },
+    {
+      "word": "culture",
+      "phonetic american": "ˈkʌlʧər",
+      "phonetic british": "ˈkʌltʃə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "文化",
+          "sentence": "This book explores the culture of ancient Egypt.",
+          "sentence translation": "这本书探索了古埃及的文化。"
+        }
+      ]
+    },
+    {
+      "word": "cup",
+      "phonetic american": "kʌp",
+      "phonetic british": "kʌp",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "杯子",
+          "sentence": "She drank a cup of tea.",
+          "sentence translation": "她喝了一杯茶。"
+        }
+      ]
+    },
+    {
+      "word": "customer",
+      "phonetic american": "ˈkʌstəmər",
+      "phonetic british": "ˈkʌstəmə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "顾客",
+          "sentence": "The store was full of customers.",
+          "sentence translation": "商店里满是顾客。"
+        }
+      ]
+    },
+    {
+      "word": "cut",
+      "phonetic american": "kʌt",
+      "phonetic british": "kʌt",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "剪切",
+          "sentence": "She cut the paper with scissors.",
+          "sentence translation": "她用剪刀剪纸。"
+        }
+      ]
+    },
+    {
+      "word": "dad",
+      "phonetic american": "dæd",
+      "phonetic british": "dæd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "爸爸",
+          "sentence": "My dad works in an office.",
+          "sentence translation": "我爸爸在办公室工作。"
+        }
+      ]
+    },
+    {
+      "word": "dance",
+      "phonetic american": "dæns",
+      "phonetic british": "dɑːns",
+      "kind": "n., v.",
+      "meaning list": [
+        {
+          "meaning": "舞蹈（名词）",
+          "sentence": "The dance performance was amazing.",
+          "sentence translation": "舞蹈表演令人惊叹。"
+        },
+        {
+          "meaning": "跳舞（动词）",
+          "sentence": "They danced all night at the party.",
+          "sentence translation": "他们在派对上跳舞跳了一整夜。"
+        }
+      ]
+    },
+    {
+      "word": "dancer",
+      "phonetic american": "ˈdænsər",
+      "phonetic british": "ˈdɑːnsə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "舞者",
+          "sentence": "She is a professional dancer.",
+          "sentence translation": "她是一名职业舞者。"
+        }
+      ]
+    },
+    {
+      "word": "dancing",
+      "phonetic american": "ˈdænsɪŋ",
+      "phonetic british": "ˈdɑːnsɪŋ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "跳舞",
+          "sentence": "Dancing is her favorite hobby.",
+          "sentence translation": "跳舞是她最喜欢的爱好。"
+        }
+      ]
+    },
+    {
+      "word": "dangerous",
+      "phonetic american": "ˈdeɪnʤərəs",
+      "phonetic british": "ˈdeɪnʤərəs",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "危险的",
+          "sentence": "Driving in the snow can be dangerous.",
+          "sentence translation": "在雪地上开车可能很危险。"
+        }
+      ]
+    },
+    {
+      "word": "dark",
+      "phonetic american": "dɑːrk",
+      "phonetic british": "dɑːk",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "黑暗的",
+          "sentence": "The room was very dark.",
+          "sentence translation": "房间非常黑暗。"
+        }
+      ]
+    },
+    {
+      "word": "date",
+      "phonetic american": "deɪt",
+      "phonetic british": "deɪt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "日期",
+          "sentence": "What is today’s date?",
+          "sentence translation": "今天的日期是什么？"
+        },
+        {
+          "meaning": "约会",
+          "sentence": "She has a date with her friend tonight.",
+          "sentence translation": "今晚她和朋友有一个约会。"
+        }
+      ]
+    },
+    {
+      "word": "daughter",
+      "phonetic american": "ˈdɔːtər",
+      "phonetic british": "ˈdɔːtə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "女儿",
+          "sentence": "Her daughter is five years old.",
+          "sentence translation": "她的女儿五岁了。"
+        }
+      ]
+    }
+  ]
+  [
+    {
+      "word": "day",
+      "phonetic american": "deɪ",
+      "phonetic british": "deɪ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "日",
+          "sentence": "It was a beautiful day for a picnic.",
+          "sentence translation": "今天是去野餐的好天气。"
+        }
+      ]
+    },
+    {
+      "word": "dear",
+      "phonetic american": "dɪr",
+      "phonetic british": "dɪə",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "亲爱的",
+          "sentence": "Dear friends, thank you for coming.",
+          "sentence translation": "亲爱的朋友们，谢谢你们的到来。"
+        }
+      ]
+    },
+    {
+      "word": "December",
+      "phonetic american": "dɪˈsɛmbər",
+      "phonetic british": "dɪˈsɛmbə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "十二月",
+          "sentence": "Christmas is celebrated in December.",
+          "sentence translation": "圣诞节在十二月庆祝。"
+        }
+      ]
+    },
+    {
+      "word": "decide",
+      "phonetic american": "dɪˈsaɪd",
+      "phonetic british": "dɪˈsaɪd",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "决定",
+          "sentence": "She decided to go to the party.",
+          "sentence translation": "她决定去参加派对。"
+        }
+      ]
+    },
+    {
+      "word": "delicious",
+      "phonetic american": "dɪˈlɪʃəs",
+      "phonetic british": "dɪˈlɪʃəs",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "美味的",
+          "sentence": "The cake was absolutely delicious.",
+          "sentence translation": "蛋糕真的非常美味。"
+        }
+      ]
+    },
+    {
+      "word": "describe",
+      "phonetic american": "dɪˈskraɪb",
+      "phonetic british": "dɪˈskraɪb",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "描述",
+          "sentence": "Can you describe the suspect?",
+          "sentence translation": "你能描述一下嫌疑人吗？"
+        }
+      ]
+    },
+    {
+      "word": "description",
+      "phonetic american": "dɪˈskrɪpʃən",
+      "phonetic british": "dɪˈskrɪpʃən",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "描述",
+          "sentence": "The description of the product is clear.",
+          "sentence translation": "产品描述很清晰。"
+        }
+      ]
+    },
+    {
+      "word": "design",
+      "phonetic american": "dɪˈzaɪn",
+      "phonetic british": "dɪˈzaɪn",
+      "kind": "n., v.",
+      "meaning list": [
+        {
+          "meaning": "设计（名词）",
+          "sentence": "The design of the building is modern.",
+          "sentence translation": "建筑的设计是现代的。"
+        },
+        {
+          "meaning": "设计（动词）",
+          "sentence": "She designs clothes for a living.",
+          "sentence translation": "她靠设计衣服为生。"
+        }
+      ]
+    },
+    {
+      "word": "desk",
+      "phonetic american": "dɛsk",
+      "phonetic british": "dɛsk",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "桌子（书桌）",
+          "sentence": "He kept his books on the desk.",
+          "sentence translation": "他把书放在桌子上。"
+        }
+      ]
+    },
+    {
+      "word": "detail",
+      "phonetic american": "ˈdiːteɪl",
+      "phonetic british": "ˈdiːteɪl",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "细节",
+          "sentence": "Please provide more details about the project.",
+          "sentence translation": "请提供更多关于这个项目的细节。"
+        }
+      ]
+    },
+    {
+      "word": "dialogue",
+      "phonetic american": "ˈdaɪəˌlɔːɡ",
+      "phonetic british": "ˈdaɪəlɒɡ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "对话",
+          "sentence": "The dialogue between the characters was interesting.",
+          "sentence translation": "角色之间的对话很有趣。"
+        }
+      ]
+    },
+    {
+      "word": "dictionary",
+      "phonetic american": "ˈdɪkʃəˌnɛri",
+      "phonetic british": "ˈdɪkʃənəri",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "字典",
+          "sentence": "I used a dictionary to look up the word.",
+          "sentence translation": "我用了字典查找这个词。"
+        }
+      ]
+    },
+    {
+      "word": "die",
+      "phonetic american": "daɪ",
+      "phonetic british": "daɪ",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "死亡",
+          "sentence": "Many flowers die without enough sunlight.",
+          "sentence translation": "许多花朵在没有足够阳光的情况下会死去。"
+        }
+      ]
+    },
+    {
+      "word": "diet",
+      "phonetic american": "ˈdaɪət",
+      "phonetic british": "ˈdaɪət",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "饮食，饮食习惯",
+          "sentence": "She follows a healthy diet.",
+          "sentence translation": "她保持健康的饮食。"
+        }
+      ]
+    },
+    {
+      "word": "difference",
+      "phonetic american": "ˈdɪfərəns",
+      "phonetic british": "ˈdɪfrəns",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "差异",
+          "sentence": "Can you explain the difference between these two concepts?",
+          "sentence translation": "你能解释这两个概念之间的差异吗？"
+        }
+      ]
+    },
+    {
+      "word": "different",
+      "phonetic american": "ˈdɪfrənt",
+      "phonetic british": "ˈdɪfrənt",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "不同的",
+          "sentence": "They have different opinions about the topic.",
+          "sentence translation": "他们对这个话题有不同的看法。"
+        }
+      ]
+    },
+    {
+      "word": "difficult",
+      "phonetic american": "ˈdɪfɪˌkʌlt",
+      "phonetic british": "ˈdɪfɪkəlt",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "困难的，难的",
+          "sentence": "This is a difficult problem to solve.",
+          "sentence translation": "这是一个难以解决的问题。"
+        }
+      ]
+    },
+    {
+      "word": "dinner",
+      "phonetic american": "ˈdɪnər",
+      "phonetic british": "ˈdɪnə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "晚餐",
+          "sentence": "We had pasta for dinner.",
+          "sentence translation": "我们晚餐吃了意大利面。"
+        }
+      ]
+    },
+    {
+      "word": "dirty",
+      "phonetic american": "ˈdɜːrti",
+      "phonetic british": "ˈdɜːti",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "脏的",
+          "sentence": "The kitchen sink is dirty.",
+          "sentence translation": "厨房水槽很脏。"
+        }
+      ]
+    },
+    {
+      "word": "discuss",
+      "phonetic american": "dɪˈskʌs",
+      "phonetic british": "dɪˈskʌs",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "讨论",
+          "sentence": "We need to discuss the new project plan.",
+          "sentence translation": "我们需要讨论新的项目计划。"
+        }
+      ]
+    },
+    {
+      "word": "dish",
+      "phonetic american": "dɪʃ",
+      "phonetic british": "dɪʃ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "盘子，菜肴",
+          "sentence": "The waiter brought a delicious dish to the table.",
+          "sentence translation": "服务员将一道美味的菜肴送到桌子上。"
+        }
+      ]
+    },
+    {
+      "word": "do",
+      "phonetic american": "duː",
+      "phonetic british": "duː",
+      "kind": "v., auxiliary v.",
+      "meaning list": [
+        {
+          "meaning": "做，干",
+          "sentence": "I do my homework every evening.",
+          "sentence translation": "我每晚做作业。"
+        },
+        {
+          "meaning": "助动词",
+          "sentence": "Do you like coffee?",
+          "sentence translation": "你喜欢咖啡吗？"
+        }
+      ]
+    }
+  ]
+  [
+    {
+      "word": "doctor",
+      "phonetic american": "ˈdɑːktər",
+      "phonetic british": "ˈdɒktə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "医生",
+          "sentence": "她是当地医院的医生。",
+          "sentence translation": "Tā shì dāngdì yīyuàn de yīshēng."
+        }
+      ]
+    },
+    {
+      "word": "dog",
+      "phonetic american": "dɔːɡ",
+      "phonetic british": "dɒɡ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "狗",
+          "sentence": "那只狗大声地叫。",
+          "sentence translation": "Nà zhī gǒu dàshēng de jiào."
+        }
+      ]
+    },
+    {
+      "word": "dollar",
+      "phonetic american": "ˈdɑːlər",
+      "phonetic british": "ˈdɒlə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "美元",
+          "sentence": "价格是五美元。",
+          "sentence translation": "Jiàgé shì wǔ měiyuán."
+        }
+      ]
+    },
+    {
+      "word": "door",
+      "phonetic american": "dɔːr",
+      "phonetic british": "dɔː",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "门",
+          "sentence": "他在进入之前敲了门。",
+          "sentence translation": "Tā zài jìnrù zhīqián qiāo le mén."
+        }
+      ]
+    },
+    {
+      "word": "down",
+      "phonetic american": "daʊn",
+      "phonetic british": "daʊn",
+      "kind": "adv., prep.",
+      "meaning list": [
+        {
+          "meaning": "下 (副词)",
+          "sentence": "他从楼梯上摔了下来。",
+          "sentence translation": "Tā cóng lóutī shàng shuāi le xiàlái."
+        },
+        {
+          "meaning": "-从...下来 (介词)",
+          "sentence": "他们沿着街走。",
+          "sentence translation": "Tāmen yánzhe jiē zǒu."
+        }
+      ]
+    },
+    {
+      "word": "downstairs",
+      "phonetic american": "ˈdaʊnˌstɛrz",
+      "phonetic british": "ˈdaʊnˌsteəz",
+      "kind": "adv.",
+      "meaning list": [
+        {
+          "meaning": "楼下",
+          "sentence": "她在楼下等。",
+          "sentence translation": "Tā zài lóuxià děng."
+        }
+      ]
+    },
+    {
+      "word": "draw",
+      "phonetic american": "drɔː",
+      "phonetic british": "drɔː",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "画",
+          "sentence": "他喜欢画动物的图画。",
+          "sentence translation": "Tā xǐhuān huà dòngwù de túhuà."
+        }
+      ]
+    },
+    {
+      "word": "dress",
+      "phonetic american": "drɛs",
+      "phonetic british": "drɛs",
+      "kind": "n., v.",
+      "meaning list": [
+        {
+          "meaning": "连衣裙 (名词)",
+          "sentence": "她穿了一件美丽的连衣裙参加婚礼。",
+          "sentence translation": "Tā chuān le yī jiàn měilì de liányīqún cānjiā hūnlǐ."
+        },
+        {
+          "meaning": "穿衣 (动词)",
+          "sentence": "他快速地穿好衣服并离开了家。",
+          "sentence translation": "Tā kuàisù de chuān hǎo yīfú bìng líkāi le jiā."
+        }
+      ]
+    },
+    {
+      "word": "drink",
+      "phonetic american": "drɪŋk",
+      "phonetic british": "drɪŋk",
+      "kind": "n., v.",
+      "meaning list": [
+        {
+          "meaning": "饮料 (名词)",
+          "sentence": "我可以给你买点饮料吗？",
+          "sentence translation": "Wǒ kěyǐ gěi nǐ mǎi diǎn yǐnliào ma?"
+        },
+        {
+          "meaning": "喝 (动词)",
+          "sentence": "他喝了一杯水。",
+          "sentence translation": "Tā hē le yī bēi shuǐ."
+        }
+      ]
+    },
+    {
+      "word": "drive",
+      "phonetic american": "draɪv",
+      "phonetic british": "draɪv",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "开车",
+          "sentence": "他每天开车上班。",
+          "sentence translation": "Tā měitiān kāichē shàngbān."
+        }
+      ]
+    },
+    {
+      "word": "driver",
+      "phonetic american": "ˈdraɪvər",
+      "phonetic british": "ˈdraɪvə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "司机",
+          "sentence": "出租车司机非常有礼貌。",
+          "sentence translation": "Chūzūchē sījī fēicháng yǒu lǐmào."
+        }
+      ]
+    },
+    {
+      "word": "during",
+      "phonetic american": "ˈdʊrɪŋ",
+      "phonetic british": "ˈdjʊərɪŋ",
+      "kind": "prep.",
+      "meaning list": [
+        {
+          "meaning": "在...期间",
+          "sentence": "她在电影期间睡着了。",
+          "sentence translation": "Tā zài diànyǐng qījiān shuìzháo le."
+        }
+      ]
+    },
+    {
+      "word": "DVD",
+      "phonetic american": "ˌdiːˌviːˈdiː",
+      "phonetic british": "ˌdiːˌviːˈdiː",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "DVD",
+          "sentence": "我买了一张我最喜欢的电影的DVD。",
+          "sentence translation": "Wǒ mǎi le yī zhāng wǒ zuì xǐhuān de diànyǐng de DVD."
+        }
+      ]
+    },
+    {
+      "word": "each",
+      "phonetic american": "iːʧ",
+      "phonetic british": "iːʧ",
+      "kind": "det./pron./adv.",
+      "meaning list": [
+        {
+          "meaning": "每个",
+          "sentence": "每个学生都必须带自己的笔记本。",
+          "sentence translation": "Měi gè xuéshēng dōu bìxū dài zìjǐ de bǐjìběn."
+        }
+      ]
+    },
+    {
+      "word": "ear",
+      "phonetic american": "ɪr",
+      "phonetic british": "ɪə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "耳朵",
+          "sentence": "他左耳有一个耳环。",
+          "sentence translation": "Tā zuǒ ěr yǒu yīgè ěrhuán."
+        }
+      ]
+    },
+    {
+      "word": "early",
+      "phonetic american": "ˈɜːrli",
+      "phonetic british": "ˈɜːli",
+      "kind": "adj., adv.",
+      "meaning list": [
+        {
+          "meaning": "早 (形容词)",
+          "sentence": "她总是早早地到达会议。",
+          "sentence translation": "Tā zǒng shì zǎo zǎo de dàodá huìyì."
+        },
+        {
+          "meaning": "早 (副词)",
+          "sentence": "我们为了抢到好位置早早到了。",
+          "sentence translation": "Wǒmen wèile qiǎng dào hǎo wèizhì zǎo zǎo dào le."
+        }
+      ]
+    },
+    {
+      "word": "east",
+      "phonetic american": "iːst",
+      "phonetic british": "iːst",
+      "kind": "n., adj., adv.",
+      "meaning list": [
+        {
+          "meaning": "东 (名词)",
+          "sentence": "太阳从东方升起。",
+          "sentence translation": "Tàiyáng cóng dōngfāng shēngqǐ."
+        },
+        {
+          "meaning": "向东 (副词)",
+          "sentence": "他们向东走，前往山脉。",
+          "sentence translation": "Tāmen xiàng dōng zǒu, qiánwǎng shānmài."
+        },
+        {
+          "meaning": "东方的 (形容词)",
+          "sentence": "这是城市的东部。",
+          "sentence translation": "Zhè shì chéngshì de dōngbù."
+        }
+      ]
+    },
+    {
+      "word": "easy",
+      "phonetic american": "ˈiːzi",
+      "phonetic british": "ˈiːzi",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "容易",
+          "sentence": "这次测试非常容易。",
+          "sentence translation": "Zhè cì cèshì fēicháng róngyì."
+        }
+      ]
+    },
+    {
+      "word": "eat",
+      "phonetic american": "iːt",
+      "phonetic british": "iːt",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "吃",
+          "sentence": "她喜欢早餐吃水果。",
+          "sentence translation": "Tā xǐhuān zǎocān chī shuǐguǒ."
+        }
+      ]
+    },
+    {
+      "word": "egg",
+      "phonetic american": "ɛɡ",
+      "phonetic british": "ɛɡ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "鸡蛋",
+          "sentence": "她为早餐煮了两个鸡蛋。",
+          "sentence translation": "Tā wèi zǎocān zhǔ le liǎng gè jīdàn."
+        }
+      ]
+    },
+    {
+      "word": "eight",
+      "phonetic american": "eɪt",
+      "phonetic british": "eɪt",
+      "kind": "number",
+      "meaning list": [
+        {
+          "meaning": "八",
+          "sentence": "架子上有八本书。",
+          "sentence translation": "Jiàzi shàng yǒu bā běn shū."
+        }
+      ]
+    }
+  ],
+  {
+    "word": "eighteen",
+    "phonetic american": "ˌeɪˈtiːn",
+    "phonetic british": "ˌeɪˈtiːn",
+    "kind": "number",
+    "meaning list": [
+      {
+        "meaning": "十八",
+        "sentence": "She is turning eighteen next month.",
+        "sentence translation": "下个月她就十八岁了。"
+      }
+    ]
+  },
+  {
+    "word": "eighty",
+    "phonetic american": "ˈeɪti",
+    "phonetic british": "ˈeɪti",
+    "kind": "number",
+    "meaning list": [
+      {
+        "meaning": "八十",
+        "sentence": "There are eighty students in the school.",
+        "sentence translation": "学校里有八十个学生。"
+      }
+    ]
+  },
+  {
+    "word": "elephant",
+    "phonetic american": "ˈɛləfənt",
+    "phonetic british": "ˈɛlɪfənt",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "大象",
+        "sentence": "The elephant is the largest land animal.",
+        "sentence translation": "大象是陆地上最大的动物。"
+      }
+    ]
+  },
+  {
+    "word": "eleven",
+    "phonetic american": "ɪˈlɛvən",
+    "phonetic british": "ɪˈlɛvən",
+    "kind": "number",
+    "meaning list": [
+      {
+        "meaning": "十一",
+        "sentence": "The clock shows eleven o'clock.",
+        "sentence translation": "时钟显示十一点。"
+      }
+    ]
+  },
+  {
+    "word": "else",
+    "phonetic american": "ɛls",
+    "phonetic british": "ɛls",
+    "kind": "adv.",
+    "meaning list": [
+      {
+        "meaning": "其他",
+        "sentence": "Is there anything else you need?",
+        "sentence translation": "你还需要其他东西吗？"
+      }
+    ]
+  },
+  {
+    "word": "email",
+    "phonetic american": "ˈiːmeɪl",
+    "phonetic british": "ˈiːmeɪl",
+    "kind": "n., v.",
+    "meaning list": [
+      {
+        "meaning": "电子邮件（名词）",
+        "sentence": "I sent you an email yesterday.",
+        "sentence translation": "我昨天给你发了封电子邮件。"
+      },
+      {
+        "meaning": "发电子邮件（动词）",
+        "sentence": "She emailed her resume to the company.",
+        "sentence translation": "她把简历通过电子邮件发送给了公司。"
+      }
+    ]
+  },
+  {
+    "word": "end",
+    "phonetic american": "ɛnd",
+    "phonetic british": "ɛnd",
+    "kind": "n., v.",
+    "meaning list": [
+      {
+        "meaning": "结束（名词）",
+        "sentence": "The movie had a surprising end.",
+        "sentence translation": "这部电影有一个令人惊讶的结局。"
+      },
+      {
+        "meaning": "结束（动词）",
+        "sentence": "They ended the meeting early.",
+        "sentence translation": "他们提前结束了会议。"
+      }
+    ]
+  },
+  {
+    "word": "enjoy",
+    "phonetic american": "ɪnˈʤɔɪ",
+    "phonetic british": "ɪnˈʤɔɪ",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "享受",
+        "sentence": "She enjoys reading books in her free time.",
+        "sentence translation": "她在空闲时间喜欢阅读书籍。"
+      }
+    ]
+  },
+  {
+    "word": "enough",
+    "phonetic american": "ɪˈnʌf",
+    "phonetic british": "ɪˈnʌf",
+    "kind": "det., pron., adv.",
+    "meaning list": [
+      {
+        "meaning": "足够（限定词）",
+        "sentence": "We have enough food for everyone.",
+        "sentence translation": "我们有足够的食物供每个人食用。"
+      },
+      {
+        "meaning": "足够地（副词）",
+        "sentence": "He didn’t run fast enough to win.",
+        "sentence translation": "他跑得不够快，没能赢。"
+      }
+    ]
+  },
+  {
+    "word": "euro",
+    "phonetic american": "ˈjʊroʊ",
+    "phonetic british": "ˈjʊərəʊ",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "欧元（货币单位）",
+        "sentence": "The price is 20 euros.",
+        "sentence translation": "价格是20欧元。"
+      }
+    ]
+  },
+  {
+    "word": "even",
+    "phonetic american": "ˈiːvən",
+    "phonetic british": "ˈiːvn",
+    "kind": "adv.",
+    "meaning list": [
+      {
+        "meaning": "甚至",
+        "sentence": "She didn’t even say goodbye.",
+        "sentence translation": "她甚至没有说再见。"
+      }
+    ]
+  },
+  {
+    "word": "evening",
+    "phonetic american": "ˈiːvnɪŋ",
+    "phonetic british": "ˈiːvnɪŋ",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "晚上",
+        "sentence": "We went out for dinner in the evening.",
+        "sentence translation": "我们晚上出去吃晚餐。"
+      }
+    ]
+  },
+  {
+    "word": "event",
+    "phonetic american": "ɪˈvɛnt",
+    "phonetic british": "ɪˈvɛnt",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "事件，活动",
+        "sentence": "The festival is a major event in the city.",
+        "sentence translation": "这个节日是城市里的一项重要活动。"
+      }
+    ]
+  },
+  {
+    "word": "ever",
+    "phonetic american": "ˈɛvər",
+    "phonetic british": "ˈɛvə",
+    "kind": "adv.",
+    "meaning list": [
+      {
+        "meaning": "曾经",
+        "sentence": "Have you ever been to Paris?",
+        "sentence translation": "你曾经去过巴黎吗？"
+      }
+    ]
+  },
+  {
+    "word": "every",
+    "phonetic american": "ˈɛvri",
+    "phonetic british": "ˈɛvri",
+    "kind": "det.",
+    "meaning list": [
+      {
+        "meaning": "每个",
+        "sentence": "Every student must bring their ID.",
+        "sentence translation": "每个学生都必须带上他们的身份证。"
+      }
+    ]
+  },
+  {
+    "word": "everybody",
+    "phonetic american": "ˈɛvriˌbɑːdi",
+    "phonetic british": "ˈɛvrɪbɒdi",
+    "kind": "pron.",
+    "meaning list": [
+      {
+        "meaning": "每个人",
+        "sentence": "Everybody enjoyed the party.",
+        "sentence translation": "每个人都很享受这个派对。"
+      }
+    ]
+  },
+  {
+    "word": "everyone",
+    "phonetic american": "ˈɛvriˌwʌn",
+    "phonetic british": "ˈɛvrɪwʌn",
+    "kind": "pron.",
+    "meaning list": [
+      {
+        "meaning": "每个人",
+        "sentence": "Everyone is waiting for the show to start.",
+        "sentence translation": "每个人都在等待表演开始。"
+      }
+    ]
+  },
+  {
+    "word": "everything",
+    "phonetic american": "ˈɛvriˌθɪŋ",
+    "phonetic british": "ˈɛvrɪθɪŋ",
+    "kind": "pron.",
+    "meaning list": [
+      {
+        "meaning": "一切",
+        "sentence": "Everything was perfect at the wedding.",
+        "sentence translation": "婚礼上的一切都很完美。"
+      }
+    ]
+  },
+  {
+    "word": "exam",
+    "phonetic american": "ɪɡˈzæm",
+    "phonetic british": "ɪɡˈzæm",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "考试",
+        "sentence": "The math exam was very difficult.",
+        "sentence translation": "数学考试非常难。"
+      }
+    ]
+  },
+  {
+    "word": "example",
+    "phonetic american": "ɪɡˈzæmpl",
+    "phonetic british": "ɪɡˈzɑːmpl",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "例子",
+        "sentence": "Can you give me an example of this word in a sentence?",
+        "sentence translation": "你能给我一个这个词在句子中的例子吗？"
+      }
+    ]
+  },
+  {
+    "word": "excited",
+    "phonetic american": "ɪkˈsaɪtɪd",
+    "phonetic british": "ɪkˈsaɪtɪd",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "兴奋的",
+        "sentence": "She was very excited about her trip.",
+        "sentence translation": "她对她的旅行感到非常兴奋。"
+      }
+    ]
+  },
+  {
+    "word": "exciting",
+    "phonetic american": "ɪkˈsaɪtɪŋ",
+    "phonetic british": "ɪkˈsaɪtɪŋ",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "令人兴奋的",
+        "sentence": "The movie was very exciting.",
+        "sentence translation": "这部电影非常令人兴奋。"
+      }
+    ]
+  }
+  [
+    {
+      "word": "exercise",
+      "phonetic american": "ˈɛksərˌsaɪz",
+      "phonetic british": "ˈɛksəsaɪz",
+      "kind": "n., v.",
+      "meaning list": [
+        {
+          "meaning": "锻炼 (名词)",
+          "sentence": "Regular exercise is important for good health.",
+          "sentence translation": "定期锻炼对保持健康很重要。"
+        },
+        {
+          "meaning": "锻炼 (动词)",
+          "sentence": "She exercises every morning.",
+          "sentence translation": "她每天早上锻炼。"
+        }
+      ]
+    },
+    {
+      "word": "expensive",
+      "phonetic american": "ɪkˈspɛnsɪv",
+      "phonetic british": "ɪkˈspɛnsɪv",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "昂贵的",
+          "sentence": "The watch is very expensive.",
+          "sentence translation": "这块手表非常昂贵。"
+        }
+      ]
+    },
+    {
+      "word": "explain",
+      "phonetic american": "ɪkˈspleɪn",
+      "phonetic british": "ɪkˈspleɪn",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "解释",
+          "sentence": "Can you explain how this machine works?",
+          "sentence translation": "你能解释一下这台机器是怎么运作的吗？"
+        }
+      ]
+    },
+    {
+      "word": "extra",
+      "phonetic american": "ˈɛkstrə",
+      "phonetic british": "ˈɛkstrə",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "额外的",
+          "sentence": "Would you like some extra cheese on your pizza?",
+          "sentence translation": "你的比萨上需要一些额外的奶酪吗？"
+        }
+      ]
+    },
+    {
+      "word": "eye",
+      "phonetic american": "aɪ",
+      "phonetic british": "aɪ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "眼睛",
+          "sentence": "She has blue eyes.",
+          "sentence translation": "她有蓝色的眼睛。"
+        }
+      ]
+    },
+    {
+      "word": "face",
+      "phonetic american": "feɪs",
+      "phonetic british": "feɪs",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "脸",
+          "sentence": "She washed her face with cold water.",
+          "sentence translation": "她用冷水洗了脸。"
+        }
+      ]
+    },
+    {
+      "word": "fact",
+      "phonetic american": "fækt",
+      "phonetic british": "fækt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "事实",
+          "sentence": "It’s a fact that the Earth revolves around the Sun.",
+          "sentence translation": "地球围绕太阳转动是一个事实。"
+        }
+      ]
+    },
+    {
+      "word": "fall",
+      "phonetic american": "fɔːl",
+      "phonetic british": "fɔːl",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "掉落",
+          "sentence": "The leaves fall from the trees in autumn.",
+          "sentence translation": "秋天，叶子从树上掉落。"
+        }
+      ]
+    },
+    {
+      "word": "false",
+      "phonetic american": "fɔːls",
+      "phonetic british": "fɔːls",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "错误的",
+          "sentence": "The statement is false.",
+          "sentence translation": "这个陈述是错误的。"
+        }
+      ]
+    },
+    {
+      "word": "family",
+      "phonetic american": "ˈfæmɪli",
+      "phonetic british": "ˈfæmɪli",
+      "kind": "n., adj.",
+      "meaning list": [
+        {
+          "meaning": "家庭 (名词)",
+          "sentence": "I love spending time with my family.",
+          "sentence translation": "我喜欢和家人一起度过时光。"
+        },
+        {
+          "meaning": "家庭的 (形容词)",
+          "sentence": "This is a family tradition.",
+          "sentence translation": "这是一个家庭传统。"
+        }
+      ]
+    },
+    {
+      "word": "famous",
+      "phonetic american": "ˈfeɪməs",
+      "phonetic british": "ˈfeɪməs",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "著名的",
+          "sentence": "She is a famous actress.",
+          "sentence translation": "她是一位著名的女演员。"
+        }
+      ]
+    },
+    {
+      "word": "fantastic",
+      "phonetic american": "fænˈtæstɪk",
+      "phonetic british": "fænˈtæstɪk",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "极好的，了不起的",
+          "sentence": "The concert was fantastic!",
+          "sentence translation": "音乐会真是太棒了！"
+        }
+      ]
+    },
+    {
+      "word": "far",
+      "phonetic american": "fɑːr",
+      "phonetic british": "fɑː",
+      "kind": "adv.",
+      "meaning list": [
+        {
+          "meaning": "远",
+          "sentence": "How far is the nearest gas station?",
+          "sentence translation": "最近的加油站有多远？"
+        }
+      ]
+    },
+    {
+      "word": "farm",
+      "phonetic american": "fɑːrm",
+      "phonetic british": "fɑːm",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "农场",
+          "sentence": "They live on a farm in the countryside.",
+          "sentence translation": "他们住在乡村的一个农场里。"
+        }
+      ]
+    },
+    {
+      "word": "farmer",
+      "phonetic american": "ˈfɑːrmər",
+      "phonetic british": "ˈfɑːmə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "农民",
+          "sentence": "The farmer grows wheat and corn.",
+          "sentence translation": "农民种植小麦和玉米。"
+        }
+      ]
+    },
+    {
+      "word": "fast",
+      "phonetic american": "fæst",
+      "phonetic british": "fɑːst",
+      "kind": "adj., adv.",
+      "meaning list": [
+        {
+          "meaning": "快速的 (形容词)",
+          "sentence": "She is a fast runner.",
+          "sentence translation": "她是一个快速的跑步者。"
+        },
+        {
+          "meaning": "快速地 (副词)",
+          "sentence": "He drove very fast.",
+          "sentence translation": "他开车非常快。"
+        }
+      ]
+    },
+    {
+      "word": "fat",
+      "phonetic american": "fæt",
+      "phonetic british": "fæt",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "肥胖的",
+          "sentence": "The cat is very fat because it eats too much.",
+          "sentence translation": "这只猫非常胖，因为它吃得太多。"
+        }
+      ]
+    },
+    {
+      "word": "father",
+      "phonetic american": "ˈfɑːðər",
+      "phonetic british": "ˈfɑːðə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "父亲",
+          "sentence": "My father is a great cook.",
+          "sentence translation": "我的父亲是一个很棒的厨师。"
+        }
+      ]
+    },
+    {
+      "word": "favourite",
+      "phonetic american": "ˈfeɪvərɪt",
+      "phonetic british": "ˈfeɪvərɪt",
+      "kind": "adj., n.",
+      "meaning list": [
+        {
+          "meaning": "最喜欢的 (形容词)",
+          "sentence": "Blue is my favourite colour.",
+          "sentence translation": "蓝色是我最喜欢的颜色。"
+        },
+        {
+          "meaning": "最喜欢的东西 (名词)",
+          "sentence": "This book is my favourite.",
+          "sentence translation": "这本书是我最喜欢的。"
+        }
+      ]
+    },
+    {
+      "word": "February",
+      "phonetic american": "ˈfɛbjuˌɛri",
+      "phonetic british": "ˈfɛbrʊəri",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "二月",
+          "sentence": "Her birthday is in February.",
+          "sentence translation": "她的生日在二月。"
+        }
+      ]
+    },
+    {
+      "word": "feel",
+      "phonetic american": "fiːl",
+      "phonetic british": "fiːl",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "感觉",
+          "sentence": "I feel happy today.",
+          "sentence translation": "我今天感觉很开心。"
+        }
+      ]
+    }
+  ],
+  {
+    "word": "feeling",
+    "phonetic american": "ˈfiːlɪŋ",
+    "phonetic british": "ˈfiːlɪŋ",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "情感",
+        "sentence": "Love is a wonderful feeling.",
+        "sentence translation": "爱是一种美妙的感觉。"
+      }
+    ]
+  },
+  {
+    "word": "festival",
+    "phonetic american": "ˈfɛstɪvəl",
+    "phonetic british": "ˈfɛstəvəl",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "节日",
+        "sentence": "The music festival will start tomorrow.",
+        "sentence translation": "音乐节明天开始。"
+      }
+    ]
+  },
+  {
+    "word": "few",
+    "phonetic american": "fjuː",
+    "phonetic british": "fjuː",
+    "kind": "det./adj., pron.",
+    "meaning list": [
+      {
+        "meaning": "几个",
+        "sentence": "I have a few questions to ask.",
+        "sentence translation": "我有几个问题要问。"
+      }
+    ]
+  },
+  {
+    "word": "fifteen",
+    "phonetic american": "ˌfɪfˈtiːn",
+    "phonetic british": "ˌfɪfˈtiːn",
+    "kind": "number",
+    "meaning list": [
+      {
+        "meaning": "十五",
+        "sentence": "The classroom has fifteen students.",
+        "sentence translation": "教室里有十五个学生。"
+      }
+    ]
+  },
+  {
+    "word": "fifth",
+    "phonetic american": "fɪfθ",
+    "phonetic british": "fɪfθ",
+    "kind": "number",
+    "meaning list": [
+      {
+        "meaning": "第五",
+        "sentence": "She finished in fifth place.",
+        "sentence translation": "她获得了第五名。"
+      }
+    ]
+  },
+  {
+    "word": "fifty",
+    "phonetic american": "ˈfɪfti",
+    "phonetic british": "ˈfɪfti",
+    "kind": "number",
+    "meaning list": [
+      {
+        "meaning": "五十",
+        "sentence": "The building is fifty years old.",
+        "sentence translation": "这座建筑已经五十年了。"
+      }
+    ]
+  },
+  {
+    "word": "fill",
+    "phonetic american": "fɪl",
+    "phonetic british": "fɪl",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "填充",
+        "sentence": "She filled the glass with water.",
+        "sentence translation": "她把杯子装满了水。"
+      }
+    ]
+  },
+  {
+    "word": "film",
+    "phonetic american": "fɪlm",
+    "phonetic british": "fɪlm",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "电影",
+        "sentence": "We watched an interesting film last night.",
+        "sentence translation": "我们昨晚看了一部有趣的电影。"
+      }
+    ]
+  },
+  {
+    "word": "final",
+    "phonetic american": "ˈfaɪnəl",
+    "phonetic british": "ˈfaɪnəl",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "最后的，最终的",
+        "sentence": "This is the final version of the report.",
+        "sentence translation": "这是报告的最终版本。"
+      }
+    ]
+  },
+  {
+    "word": "find",
+    "phonetic american": "faɪnd",
+    "phonetic british": "faɪnd",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "找到",
+        "sentence": "She found her keys on the table.",
+        "sentence translation": "她在桌子上找到了她的钥匙。"
+      }
+    ]
+  },
+  {
+    "word": "fine",
+    "phonetic american": "faɪn",
+    "phonetic british": "faɪn",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "好，良好",
+        "sentence": "Everything is fine now.",
+        "sentence translation": "现在一切都好。"
+      }
+    ]
+  },
+  {
+    "word": "finish",
+    "phonetic american": "ˈfɪnɪʃ",
+    "phonetic british": "ˈfɪnɪʃ",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "完成",
+        "sentence": "He finished his homework before dinner.",
+        "sentence translation": "他在晚餐前完成了作业。"
+      }
+    ]
+  },
+  {
+    "word": "fire",
+    "phonetic american": "ˈfaɪər",
+    "phonetic british": "ˈfaɪə",
+    "kind": "n., verb",
+    "meaning list": [
+      {
+        "meaning": "火",
+        "sentence": "The fire kept them warm during the night.",
+        "sentence translation": "火把他们在夜间保持温暖。"
+      },
+      {
+        "meaning": "解雇",
+        "sentence": "The company decided to fire several employees.",
+        "sentence translation": "公司决定解雇几名员工。"
+      }
+    ]
+  },
+  {
+    "word": "first",
+    "phonetic american": "fɜːrst",
+    "phonetic british": "fɜːst",
+    "kind": "det./number, adv.",
+    "meaning list": [
+      {
+        "meaning": "第一",
+        "sentence": "She was the first person to arrive.",
+        "sentence translation": "她是第一个到达的人。"
+      },
+      {
+        "meaning": "首先",
+        "sentence": "First, let’s go to the supermarket.",
+        "sentence translation": "首先，我们去超市。"
+      }
+    ]
+  },
+  {
+    "word": "fish",
+    "phonetic american": "fɪʃ",
+    "phonetic british": "fɪʃ",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "鱼",
+        "sentence": "He caught a big fish in the lake.",
+        "sentence translation": "他在湖里抓到了一条大鱼。"
+      }
+    ]
+  },
+  {
+    "word": "five",
+    "phonetic american": "faɪv",
+    "phonetic british": "faɪv",
+    "kind": "number",
+    "meaning list": [
+      {
+        "meaning": "五",
+        "sentence": "The child is five years old.",
+        "sentence translation": "这个孩子五岁了。"
+      }
+    ]
+  },
+  {
+    "word": "flat",
+    "phonetic american": "flæt",
+    "phonetic british": "flæt",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "公寓",
+        "sentence": "They live in a small flat in the city.",
+        "sentence translation": "他们住在城市里的一个小公寓里。"
+      }
+    ]
+  },
+  {
+    "word": "flight",
+    "phonetic american": "flaɪt",
+    "phonetic british": "flaɪt",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "航班",
+        "sentence": "Their flight was delayed due to bad weather.",
+        "sentence translation": "由于恶劣的天气，他们的航班被延误了。"
+      }
+    ]
+  },
+  {
+    "word": "floor",
+    "phonetic american": "flɔːr",
+    "phonetic british": "flɔː",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "地板，楼层",
+        "sentence": "They live on the second floor.",
+        "sentence translation": "他们住在二楼。"
+      }
+    ]
+  },
+  {
+    "word": "flower",
+    "phonetic american": "ˈflaʊər",
+    "phonetic british": "ˈflaʊə",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "花",
+        "sentence": "She received a bouquet of flowers for her birthday.",
+        "sentence translation": "她收到了生日花束。"
+      }
+    ]
+  },
+  {
+    "word": "fly",
+    "phonetic american": "flaɪ",
+    "phonetic british": "flaɪ",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "飞行",
+        "sentence": "Birds fly high in the sky.",
+        "sentence translation": "鸟儿在天空中飞翔。"
+      }
+    ]
+  },
+  {
+    "word": "follow",
+    "phonetic american": "ˈfɑːloʊ",
+    "phonetic british": "ˈfɒləʊ",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "跟随",
+        "sentence": "He followed the trail through the forest.",
+        "sentence translation": "他沿着森林中的小径走。"
+      }
+    ]
+  },
+  [
+    {
+      "word": "food",
+      "phonetic american": "fuːd",
+      "phonetic british": "fuːd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "食物",
+          "sentence": "They brought food for the picnic.",
+          "sentence translation": "他们为野餐带来了食物。"
+        }
+      ]
+    },
+    {
+      "word": "foot",
+      "phonetic american": "fʊt",
+      "phonetic british": "fʊt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "脚",
+          "sentence": "He injured his foot while playing football.",
+          "sentence translation": "他在踢足球时伤了脚。"
+        }
+      ]
+    },
+    {
+      "word": "football",
+      "phonetic american": "ˈfʊtbɔːl",
+      "phonetic british": "ˈfʊtbɔːl",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "足球",
+          "sentence": "He plays football every weekend.",
+          "sentence translation": "他每个周末都踢足球。"
+        }
+      ]
+    },
+    {
+      "word": "for",
+      "phonetic american": "fɔːr",
+      "phonetic british": "fɔː",
+      "kind": "prep.",
+      "meaning list": [
+        {
+          "meaning": "为了",
+          "sentence": "This gift is for you.",
+          "sentence translation": "这份礼物是给你的。"
+        }
+      ]
+    },
+    {
+      "word": "forget",
+      "phonetic american": "fɚˈɡɛt",
+      "phonetic british": "fəˈɡɛt",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "忘记",
+          "sentence": "Don’t forget to bring your passport.",
+          "sentence translation": "不要忘记带护照。"
+        }
+      ]
+    },
+    {
+      "word": "form",
+      "phonetic american": "fɔːrm",
+      "phonetic british": "fɔːm",
+      "kind": "n., v.",
+      "meaning list": [
+        {
+          "meaning": "表格，形式（名词）",
+          "sentence": "Please fill out the form.",
+          "sentence translation": "请填写表格。"
+        },
+        {
+          "meaning": "形成（动词）",
+          "sentence": "The group formed a circle.",
+          "sentence translation": "小组形成了一个圆圈。"
+        }
+      ]
+    },
+    {
+      "word": "forty",
+      "phonetic american": "ˈfɔːrti",
+      "phonetic british": "ˈfɔːti",
+      "kind": "number",
+      "meaning list": [
+        {
+          "meaning": "四十",
+          "sentence": "The building is forty years old.",
+          "sentence translation": "这座建筑已经四十年了。"
+        }
+      ]
+    },
+    {
+      "word": "four",
+      "phonetic american": "fɔːr",
+      "phonetic british": "fɔː",
+      "kind": "number",
+      "meaning list": [
+        {
+          "meaning": "四",
+          "sentence": "There are four apples on the table.",
+          "sentence translation": "桌子上有四个苹果。"
+        }
+      ]
+    },
+    {
+      "word": "fourteen",
+      "phonetic american": "ˌfɔːrˈtiːn",
+      "phonetic british": "ˌfɔːˈtiːn",
+      "kind": "number",
+      "meaning list": [
+        {
+          "meaning": "十四",
+          "sentence": "The classroom has fourteen students.",
+          "sentence translation": "教室里有十四个学生。"
+        }
+      ]
+    },
+    {
+      "word": "fourth",
+      "phonetic american": "fɔːrθ",
+      "phonetic british": "fɔːθ",
+      "kind": "number",
+      "meaning list": [
+        {
+          "meaning": "第四",
+          "sentence": "She finished in fourth place.",
+          "sentence translation": "她以第四名完成比赛。"
+        }
+      ]
+    },
+    {
+      "word": "free",
+      "phonetic american": "friː",
+      "phonetic british": "friː",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "免费的",
+          "sentence": "The service is free for all users.",
+          "sentence translation": "该服务对所有用户免费。"
+        },
+        {
+          "meaning": "自由的",
+          "sentence": "He felt free after the exam.",
+          "sentence translation": "考试后他感到自由。"
+        }
+      ]
+    },
+    {
+      "word": "Friday",
+      "phonetic american": "ˈfraɪˌdeɪ",
+      "phonetic british": "ˈfraɪˌdeɪ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "星期五",
+          "sentence": "The meeting is scheduled for Friday.",
+          "sentence translation": "会议安排在星期五。"
+        }
+      ]
+    },
+    {
+      "word": "friend",
+      "phonetic american": "frɛnd",
+      "phonetic british": "frɛnd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "朋友",
+          "sentence": "She is my best friend.",
+          "sentence translation": "她是我最好的朋友。"
+        }
+      ]
+    },
+    {
+      "word": "friendly",
+      "phonetic american": "ˈfrɛndli",
+      "phonetic british": "ˈfrɛndli",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "友好的，亲切的",
+          "sentence": "The staff were very friendly.",
+          "sentence translation": "工作人员非常友好。"
+        }
+      ]
+    },
+    {
+      "word": "from",
+      "phonetic american": "frʌm",
+      "phonetic british": "frəm",
+      "kind": "prep.",
+      "meaning list": [
+        {
+          "meaning": "来自",
+          "sentence": "He is from Italy.",
+          "sentence translation": "他来自意大利。"
+        }
+      ]
+    },
+    {
+      "word": "front",
+      "phonetic american": "frʌnt",
+      "phonetic british": "frʌnt",
+      "kind": "n., adj.",
+      "meaning list": [
+        {
+          "meaning": "前面（名词）",
+          "sentence": "The car is parked in front of the house.",
+          "sentence translation": "车停在房子前面。"
+        },
+        {
+          "meaning": "前面的（形容词）",
+          "sentence": "The front door is painted red.",
+          "sentence translation": "前门漆成了红色。"
+        }
+      ]
+    },
+    {
+      "word": "fruit",
+      "phonetic american": "fruːt",
+      "phonetic british": "fruːt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "水果",
+          "sentence": "I like eating fresh fruit for breakfast.",
+          "sentence translation": "我喜欢吃新鲜水果作为早餐。"
+        }
+      ]
+    },
+    {
+      "word": "full",
+      "phonetic american": "fʊl",
+      "phonetic british": "fʊl",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "满的",
+          "sentence": "The glass is full of water.",
+          "sentence translation": "杯子里满是水。"
+        }
+      ]
+    },
+    {
+      "word": "fun",
+      "phonetic american": "fʌn",
+      "phonetic british": "fʌn",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "乐趣",
+          "sentence": "We had a lot of fun at the party.",
+          "sentence translation": "我们在聚会中玩得很开心。"
+        }
+      ]
+    },
+    {
+      "word": "funny",
+      "phonetic american": "ˈfʌni",
+      "phonetic british": "ˈfʌni",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "搞笑的",
+          "sentence": "That joke was really funny.",
+          "sentence translation": "那个笑话真的很搞笑。"
+        }
+      ]
+    },
+    {
+      "word": "future",
+      "phonetic american": "ˈfjuːʧər",
+      "phonetic british": "ˈfjuːtʃə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "未来",
+          "sentence": "I am excited about the future.",
+          "sentence translation": "我对未来感到兴奋。"
+        }
+      ]
+    },
+    {
+      "word": "game",
+      "phonetic american": "ɡeɪm",
+      "phonetic british": "ɡeɪm",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "游戏",
+          "sentence": "We played a board game with friends.",
+          "sentence translation": "我们和朋友们玩了桌面游戏。"
+        }
+      ]
+    }
+  ]
+  [
+    {
+      "word": "garden",
+      "phonetic american": "ˈɡɑːrdn",
+      "phonetic british": "ˈɡɑːdn",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "花园",
+          "sentence": "The flowers in the garden are blooming.",
+          "sentence translation": "花园里的花正在开花。"
+        }
+      ]
+    },
+    {
+      "word": "geography",
+      "phonetic american": "ʤiˈɑːɡrəfi",
+      "phonetic british": "ʤɪˈɒɡrəfi",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "地理",
+          "sentence": "She is studying geography at university.",
+          "sentence translation": "她在大学学习地理。"
+        }
+      ]
+    },
+    {
+      "word": "get",
+      "phonetic american": "ɡɛt",
+      "phonetic british": "ɡɛt",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "得到",
+          "sentence": "I need to get some groceries from the store.",
+          "sentence translation": "我需要从商店买一些杂货。"
+        },
+        {
+          "meaning": "获得",
+          "sentence": "She got a new job last week.",
+          "sentence translation": "她上周找到了新工作。"
+        }
+      ]
+    },
+    {
+      "word": "girl",
+      "phonetic american": "ɡɜːrl",
+      "phonetic british": "ɡɜːl",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "女孩",
+          "sentence": "The girl is playing with her doll.",
+          "sentence translation": "女孩正在玩她的洋娃娃。"
+        }
+      ]
+    },
+    {
+      "word": "girlfriend",
+      "phonetic american": "ˈɡɜːrlˌfrɛnd",
+      "phonetic british": "ˈɡɜːlfrɛnd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "女朋友",
+          "sentence": "He introduced his girlfriend to his family.",
+          "sentence translation": "他把女朋友介绍给了家人。"
+        }
+      ]
+    },
+    {
+      "word": "give",
+      "phonetic american": "ɡɪv",
+      "phonetic british": "ɡɪv",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "给",
+          "sentence": "She gave him a birthday present.",
+          "sentence translation": "她给了他一份生日礼物。"
+        }
+      ]
+    },
+    {
+      "word": "glass",
+      "phonetic american": "ɡlæs",
+      "phonetic british": "ɡlɑːs",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "玻璃",
+          "sentence": "The window is made of glass.",
+          "sentence translation": "窗户是由玻璃做的。"
+        },
+        {
+          "meaning": "杯子",
+          "sentence": "Can I have a glass of water?",
+          "sentence translation": "我可以喝一杯水吗？"
+        }
+      ]
+    },
+    {
+      "word": "go",
+      "phonetic american": "ɡoʊ",
+      "phonetic british": "ɡəʊ",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "去",
+          "sentence": "We go to school by bus every day.",
+          "sentence translation": "我们每天乘公交去学校。"
+        }
+      ]
+    },
+    {
+      "word": "good",
+      "phonetic american": "ɡʊd",
+      "phonetic british": "ɡʊd",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "好",
+          "sentence": "She is a good friend.",
+          "sentence translation": "她是一个好朋友。"
+        }
+      ]
+    },
+    {
+      "word": "goodbye",
+      "phonetic american": "ˌɡʊdˈbaɪ",
+      "phonetic british": "ˌɡʊdˈbaɪ",
+      "kind": "exclam., n.",
+      "meaning list": [
+        {
+          "meaning": "再见（感叹词）",
+          "sentence": "Goodbye! See you tomorrow.",
+          "sentence translation": "再见！明天见。"
+        },
+        {
+          "meaning": "告别（名词）",
+          "sentence": "Saying goodbye was difficult.",
+          "sentence translation": "告别很难。"
+        }
+      ]
+    },
+    {
+      "word": "grandfather",
+      "phonetic american": "ˈɡrændˌfɑːðər",
+      "phonetic british": "ˈɡrændˌfɑːðə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "祖父",
+          "sentence": "My grandfather loves telling stories.",
+          "sentence translation": "我的祖父喜欢讲故事。"
+        }
+      ]
+    },
+    {
+      "word": "grandmother",
+      "phonetic american": "ˈɡrændˌmʌðər",
+      "phonetic british": "ˈɡrændˌmʌðə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "祖母",
+          "sentence": "Her grandmother baked a delicious cake.",
+          "sentence translation": "她的祖母烤了一个美味的蛋糕。"
+        }
+      ]
+    },
+    {
+      "word": "grandparent",
+      "phonetic american": "ˈɡrændˌpɛrənt",
+      "phonetic british": "ˈɡrændˌpeərənt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "祖父母",
+          "sentence": "She spends every summer with her grandparents.",
+          "sentence translation": "她每年夏天都和她的祖父母在一起。"
+        }
+      ]
+    },
+    {
+      "word": "great",
+      "phonetic american": "ɡreɪt",
+      "phonetic british": "ɡreɪt",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "伟大，棒",
+          "sentence": "We had a great time at the concert.",
+          "sentence translation": "我们在音乐会度过了愉快的时光。"
+        }
+      ]
+    },
+    {
+      "word": "green",
+      "phonetic american": "ɡriːn",
+      "phonetic british": "ɡriːn",
+      "kind": "adj., n.",
+      "meaning list": [
+        {
+          "meaning": "绿色（形容词）",
+          "sentence": "The grass is green after the rain.",
+          "sentence translation": "雨后草地变绿了。"
+        },
+        {
+          "meaning": "绿色（名词）",
+          "sentence": "Green is my favorite color.",
+          "sentence translation": "绿色是我最喜欢的颜色。"
+        }
+      ]
+    },
+    {
+      "word": "grey",
+      "phonetic american": "ɡreɪ",
+      "phonetic british": "ɡreɪ",
+      "kind": "adj., n.",
+      "meaning list": [
+        {
+          "meaning": "灰色（形容词）",
+          "sentence": "The sky turned grey before the storm.",
+          "sentence translation": "风暴来临前，天空变成了灰色。"
+        },
+        {
+          "meaning": "灰色（名词）",
+          "sentence": "She prefers grey over black.",
+          "sentence translation": "她喜欢灰色而不是黑色。"
+        }
+      ]
+    },
+    {
+      "word": "group",
+      "phonetic american": "ɡruːp",
+      "phonetic british": "ɡruːp",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "小组",
+          "sentence": "We formed a study group for the project.",
+          "sentence translation": "我们为项目组成了一个学习小组。"
+        }
+      ]
+    },
+    {
+      "word": "grow",
+      "phonetic american": "ɡroʊ",
+      "phonetic british": "ɡrəʊ",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "成长，生长",
+          "sentence": "Tomatoes grow well in this soil.",
+          "sentence translation": "番茄在这块土壤中生长得很好。"
+        }
+      ]
+    },
+    {
+      "word": "guess",
+      "phonetic american": "ɡɛs",
+      "phonetic british": "ɡɛs",
+      "kind": "v., n.",
+      "meaning list": [
+        {
+          "meaning": "猜测（动词）",
+          "sentence": "Can you guess the answer?",
+          "sentence translation": "你能猜出答案吗？"
+        },
+        {
+          "meaning": "猜测（名词）",
+          "sentence": "That was a good guess.",
+          "sentence translation": "那是一个不错的猜测。"
+        }
+      ]
+    },
+    {
+      "word": "guitar",
+      "phonetic american": "ɡɪˈtɑːr",
+      "phonetic british": "ɡɪˈtɑː",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "吉他",
+          "sentence": "He plays the guitar in a band.",
+          "sentence translation": "他在一个乐队里弹吉他。"
+        }
+      ]
+    },
+    {
+      "word": "gym",
+      "phonetic american": "ʤɪm",
+      "phonetic british": "ʤɪm",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "健身房",
+          "sentence": "She goes to the gym three times a week.",
+          "sentence translation": "她每周去健身房三次。"
+        }
+      ]
+    }
+  ]
+  [
+    {
+      "word": "hair",
+      "phonetic american": "hɛr",
+      "phonetic british": "heə",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "头发",
+          "sentence": "Her hair is long and curly.",
+          "sentence translation": "她的头发又长又卷。"
+        }
+      ]
+    },
+    {
+      "word": "half",
+      "phonetic american": "hæf",
+      "phonetic british": "hɑːf",
+      "kind": "n., det./pron.",
+      "meaning list": [
+        {
+          "meaning": "一半（名词）",
+          "sentence": "He ate half of the pizza.",
+          "sentence translation": "他吃了一半的披萨。"
+        },
+        {
+          "meaning": "一半（代词）",
+          "sentence": "Half of the class was absent today.",
+          "sentence translation": "今天班级的一半人缺席。"
+        }
+      ]
+    },
+    {
+      "word": "hand",
+      "phonetic american": "hænd",
+      "phonetic british": "hænd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "手",
+          "sentence": "She raised her hand to answer the question.",
+          "sentence translation": "她举起手来回答问题。"
+        }
+      ]
+    },
+    {
+      "word": "happen",
+      "phonetic american": "ˈhæpən",
+      "phonetic british": "ˈhæpən",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "发生",
+          "sentence": "What will happen if we miss the bus?",
+          "sentence translation": "如果我们错过了公交车，会发生什么？"
+        }
+      ]
+    },
+    {
+      "word": "happy",
+      "phonetic american": "ˈhæpi",
+      "phonetic british": "ˈhæpi",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "快乐的",
+          "sentence": "She looks so happy today.",
+          "sentence translation": "她今天看起来非常快乐。"
+        }
+      ]
+    },
+    {
+      "word": "hard",
+      "phonetic american": "hɑːrd",
+      "phonetic british": "hɑːd",
+      "kind": "adj., adv.",
+      "meaning list": [
+        {
+          "meaning": "困难的（形容词）",
+          "sentence": "This is a hard problem to solve.",
+          "sentence translation": "这是一个难以解决的问题。"
+        },
+        {
+          "meaning": "努力的（副词）",
+          "sentence": "He worked hard to achieve his goals.",
+          "sentence translation": "他努力工作以实现他的目标。"
+        }
+      ]
+    },
+    {
+      "word": "hat",
+      "phonetic american": "hæt",
+      "phonetic british": "hæt",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "帽子",
+          "sentence": "She wore a red hat to the party.",
+          "sentence translation": "她戴着一顶红色的帽子参加了聚会。"
+        }
+      ]
+    },
+    {
+      "word": "hate",
+      "phonetic american": "heɪt",
+      "phonetic british": "heɪt",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "讨厌",
+          "sentence": "I hate waking up early in the morning.",
+          "sentence translation": "我讨厌早晨起床。"
+        }
+      ]
+    },
+    {
+      "word": "have",
+      "phonetic american": "hæv",
+      "phonetic british": "hæv",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "拥有",
+          "sentence": "They have a beautiful garden.",
+          "sentence translation": "他们有一个美丽的花园。"
+        }
+      ]
+    },
+    {
+      "word": "have to",
+      "phonetic american": "ˈhæv tuː",
+      "phonetic british": "ˈhæv tʊ",
+      "kind": "modal v.",
+      "meaning list": [
+        {
+          "meaning": "必须",
+          "sentence": "You have to finish your homework by tomorrow.",
+          "sentence translation": "你必须在明天之前完成作业。"
+        }
+      ]
+    },
+    {
+      "word": "he",
+      "phonetic american": "hiː",
+      "phonetic british": "hiː",
+      "kind": "pron.",
+      "meaning list": [
+        {
+          "meaning": "他（男性）",
+          "sentence": "He is my best friend.",
+          "sentence translation": "他是我最好的朋友。"
+        }
+      ]
+    },
+    {
+      "word": "head",
+      "phonetic american": "hɛd",
+      "phonetic british": "hɛd",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "头",
+          "sentence": "She nodded her head in agreement.",
+          "sentence translation": "她点头表示同意。"
+        }
+      ]
+    },
+    {
+      "word": "health",
+      "phonetic american": "hɛlθ",
+      "phonetic british": "hɛlθ",
+      "kind": "n.",
+      "meaning list": [
+        {
+          "meaning": "健康",
+          "sentence": "Exercise is important for good health.",
+          "sentence translation": "锻炼对良好的健康非常重要。"
+        }
+      ]
+    },
+    {
+      "word": "healthy",
+      "phonetic american": "ˈhɛlθi",
+      "phonetic british": "ˈhɛlθi",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "健康的",
+          "sentence": "She tries to eat healthy food every day.",
+          "sentence translation": "她每天都尽力吃健康的食物。"
+        }
+      ]
+    },
+    {
+      "word": "hear",
+      "phonetic american": "hɪr",
+      "phonetic british": "hɪə",
+      "kind": "v.",
+      "meaning list": [
+        {
+          "meaning": "听见",
+          "sentence": "Can you hear the birds singing?",
+          "sentence translation": "你能听到鸟儿在唱歌吗？"
+        }
+      ]
+    },
+    {
+      "word": "hello",
+      "phonetic american": "həˈloʊ",
+      "phonetic british": "həˈləʊ",
+      "kind": "exclam., n.",
+      "meaning list": [
+        {
+          "meaning": "你好（感叹词）",
+          "sentence": "Hello! How are you?",
+          "sentence translation": "你好！你好吗？"
+        },
+        {
+          "meaning": "问候（名词）",
+          "sentence": "She gave a cheerful hello.",
+          "sentence translation": "她开心地问候了。"
+        }
+      ]
+    },
+    {
+      "word": "help",
+      "phonetic american": "hɛlp",
+      "phonetic british": "hɛlp",
+      "kind": "v., n.",
+      "meaning list": [
+        {
+          "meaning": "帮助（动词）",
+          "sentence": "Can you help me with this task?",
+          "sentence translation": "你能帮我做这个任务吗？"
+        },
+        {
+          "meaning": "帮助（名词）",
+          "sentence": "Thank you for your help.",
+          "sentence translation": "谢谢你的帮助。"
+        }
+      ]
+    },
+    {
+      "word": "her",
+      "phonetic american": "hɜːr",
+      "phonetic british": "hɜː",
+      "kind": "pron., det.",
+      "meaning list": [
+        {
+          "meaning": "她（代词）",
+          "sentence": "I gave her a gift.",
+          "sentence translation": "我给了她一个礼物。"
+        },
+        {
+          "meaning": "她的（限定词）",
+          "sentence": "This is her bag.",
+          "sentence translation": "这是她的包。"
+        }
+      ]
+    },
+    {
+      "word": "here",
+      "phonetic american": "hɪr",
+      "phonetic british": "hɪə",
+      "kind": "adv.",
+      "meaning list": [
+        {
+          "meaning": "这里",
+          "sentence": "I live here with my family.",
+          "sentence translation": "我和我的家人住在这里。"
+        }
+      ]
+    },
+    {
+      "word": "hey",
+      "phonetic american": "heɪ",
+      "phonetic british": "heɪ",
+      "kind": "exclam.",
+      "meaning list": [
+        {
+          "meaning": "嘿（感叹词）",
+          "sentence": "Hey! What are you doing?",
+          "sentence translation": "嘿！你在做什么？"
+        }
+      ]
+    },
+    {
+      "word": "hi",
+      "phonetic american": "haɪ",
+      "phonetic british": "haɪ",
+      "kind": "exclam.",
+      "meaning list": [
+        {
+          "meaning": "你好（感叹词）",
+          "sentence": "Hi! Nice to meet you.",
+          "sentence translation": "你好！很高兴见到你。"
+        }
+      ]
+    },
+    {
+      "word": "high",
+      "phonetic american": "haɪ",
+      "phonetic british": "haɪ",
+      "kind": "adj.",
+      "meaning list": [
+        {
+          "meaning": "高的",
+          "sentence": "The mountains are very high.",
+          "sentence translation": "这些山很高。"
+        }
+      ]
+    }
+  ],
+  {
+    "word": "him",
+    "phonetic american": "hɪm",
+    "phonetic british": "hɪm",
+    "kind": "pron.",
+    "meaning list": [
+      {
+        "meaning": "他 (男性)",
+        "sentence": "I saw him at the park.",
+        "sentence translation": "我在公园看到了他。"
+      }
+    ]
+  },
+  {
+    "word": "his",
+    "phonetic american": "hɪz",
+    "phonetic british": "hɪz",
+    "kind": "det.",
+    "meaning list": [
+      {
+        "meaning": "他的 (男性)",
+        "sentence": "This is his book.",
+        "sentence translation": "这是他的书。"
+      }
+    ]
+  },
+  {
+    "word": "history",
+    "phonetic american": "ˈhɪstəri",
+    "phonetic british": "ˈhɪstəri",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "历史",
+        "sentence": "She is studying history at university.",
+        "sentence translation": "她在大学学习历史。"
+      }
+    ]
+  },
+  {
+    "word": "hobby",
+    "phonetic american": "ˈhɑːbi",
+    "phonetic british": "ˈhɒbi",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "爱好",
+        "sentence": "Gardening is my favorite hobby.",
+        "sentence translation": "园艺是我最喜欢的爱好。"
+      }
+    ]
+  },
+  {
+    "word": "holiday",
+    "phonetic american": "ˈhɑːlɪˌdeɪ",
+    "phonetic british": "ˈhɒlɪdeɪ",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "假期",
+        "sentence": "We are planning a holiday to the beach.",
+        "sentence translation": "我们计划去海滩度假。"
+      }
+    ]
+  },
+  {
+    "word": "home",
+    "phonetic american": "hoʊm",
+    "phonetic british": "həʊm",
+    "kind": "n., adv.",
+    "meaning list": [
+      {
+        "meaning": "家 (名词)",
+        "sentence": "Her home is very cozy.",
+        "sentence translation": "她的家很温馨。"
+      },
+      {
+        "meaning": "回家 (副词)",
+        "sentence": "I am going home now.",
+        "sentence translation": "我现在要回家。"
+      }
+    ]
+  },
+  {
+    "word": "homework",
+    "phonetic american": "ˈhoʊmˌwɜːrk",
+    "phonetic british": "ˈhəʊmwɜːk",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "家庭作业",
+        "sentence": "He finished his homework before dinner.",
+        "sentence translation": "他在晚饭前完成了家庭作业。"
+      }
+    ]
+  },
+  {
+    "word": "hope",
+    "phonetic american": "hoʊp",
+    "phonetic british": "həʊp",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "希望",
+        "sentence": "I hope it doesn’t rain tomorrow.",
+        "sentence translation": "我希望明天不下雨。"
+      }
+    ]
+  },
+  {
+    "word": "horse",
+    "phonetic american": "hɔːrs",
+    "phonetic british": "hɔːs",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "马",
+        "sentence": "The horse is running in the field.",
+        "sentence translation": "马在田野里奔跑。"
+      }
+    ]
+  },
+  {
+    "word": "hospital",
+    "phonetic american": "ˈhɑːspɪtl",
+    "phonetic british": "ˈhɒspɪtl",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "医院",
+        "sentence": "She works as a nurse at the hospital.",
+        "sentence translation": "她在医院做护士。"
+      }
+    ]
+  },
+  {
+    "word": "hot",
+    "phonetic american": "hɑːt",
+    "phonetic british": "hɒt",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "热的",
+        "sentence": "It’s very hot outside today.",
+        "sentence translation": "今天外面很热。"
+      }
+    ]
+  },
+  {
+    "word": "hotel",
+    "phonetic american": "hoʊˈtɛl",
+    "phonetic british": "həʊˈtɛl",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "酒店",
+        "sentence": "They stayed in a luxury hotel.",
+        "sentence translation": "他们住在一家豪华酒店。"
+      }
+    ]
+  },
+  {
+    "word": "hour",
+    "phonetic american": "ˈaʊər",
+    "phonetic british": "ˈaʊə",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "小时",
+        "sentence": "The meeting lasted for two hours.",
+        "sentence translation": "会议持续了两个小时。"
+      }
+    ]
+  },
+  {
+    "word": "house",
+    "phonetic american": "haʊs",
+    "phonetic british": "haʊs",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "房子",
+        "sentence": "They bought a new house last month.",
+        "sentence translation": "他们上个月买了一栋新房子。"
+      }
+    ]
+  },
+  {
+    "word": "how",
+    "phonetic american": "haʊ",
+    "phonetic british": "haʊ",
+    "kind": "adv.",
+    "meaning list": [
+      {
+        "meaning": "如何",
+        "sentence": "How do you solve this problem?",
+        "sentence translation": "你怎么解决这个问题？"
+      }
+    ]
+  },
+  {
+    "word": "however",
+    "phonetic american": "haʊˈɛvər",
+    "phonetic british": "haʊˈɛvə",
+    "kind": "adv.",
+    "meaning list": [
+      {
+        "meaning": "然而",
+        "sentence": "He was tired; however, he continued working.",
+        "sentence translation": "他很累；然而，他继续工作。"
+      }
+    ]
+  },
+  {
+    "word": "hundred",
+    "phonetic american": "ˈhʌndrəd",
+    "phonetic british": "ˈhʌndrɪd",
+    "kind": "number",
+    "meaning list": [
+      {
+        "meaning": "一百",
+        "sentence": "There are a hundred students in the school.",
+        "sentence translation": "学校里有一百个学生。"
+      }
+    ]
+  },
+  {
+    "word": "hungry",
+    "phonetic american": "ˈhʌŋɡri",
+    "phonetic british": "ˈhʌŋɡri",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "饿的",
+        "sentence": "I am so hungry after the workout.",
+        "sentence translation": "锻炼后我很饿。"
+      }
+    ]
+  },
+  {
+    "word": "husband",
+    "phonetic american": "ˈhʌzbənd",
+    "phonetic british": "ˈhʌzbənd",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "丈夫",
+        "sentence": "Her husband is a doctor.",
+        "sentence translation": "她的丈夫是医生。"
+      }
+    ]
+  },
+  {
+    "word": "I",
+    "phonetic american": "aɪ",
+    "phonetic british": "aɪ",
+    "kind": "pron.",
+    "meaning list": [
+      {
+        "meaning": "我",
+        "sentence": "I love reading books in my free time.",
+        "sentence translation": "我喜欢在空闲时间读书。"
+      }
+    ]
+  },
+  {
+    "word": "ice",
+    "phonetic american": "aɪs",
+    "phonetic british": "aɪs",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "冰",
+        "sentence": "The lake is covered with ice in winter.",
+        "sentence translation": "湖面在冬天被冰覆盖。"
+      }
+    ]
+  },
+  {
+    "word": "ice cream",
+    "phonetic american": "aɪs kriːm",
+    "phonetic british": "aɪs kriːm",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "冰淇淋",
+        "sentence": "I love eating ice cream in the summer.",
+        "sentence translation": "我喜欢在夏天吃冰淇淋。"
+      }
+    ]
+  },
+  {
+    "word": "idea",
+    "phonetic american": "aɪˈdiːə",
+    "phonetic british": "aɪˈdɪə",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "想法",
+        "sentence": "That’s a great idea!",
+        "sentence translation": "那是个好主意！"
+      }
+    ]
+  },
+  {
+    "word": "if",
+    "phonetic american": "ɪf",
+    "phonetic british": "ɪf",
+    "kind": "conj.",
+    "meaning list": [
+      {
+        "meaning": "如果",
+        "sentence": "If it rains, we’ll stay indoors.",
+        "sentence translation": "如果下雨，我们就待在室内。"
+      }
+    ]
+  },
+  {
+    "word": "imagine",
+    "phonetic american": "ɪˈmæʤɪn",
+    "phonetic british": "ɪˈmæʤɪn",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "想象",
+        "sentence": "Can you imagine living on a tropical island?",
+        "sentence translation": "你能想象住在热带岛屿上吗？"
+      }
+    ]
+  },
+  {
+    "word": "important",
+    "phonetic american": "ɪmˈpɔːrtənt",
+    "phonetic british": "ɪmˈpɔːtənt",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "重要的",
+        "sentence": "This is an important meeting.",
+        "sentence translation": "这是一个重要的会议。"
+      }
+    ]
+  },
+  {
+    "word": "improve",
+    "phonetic american": "ɪmˈpruːv",
+    "phonetic british": "ɪmˈpruːv",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "改善，提高",
+        "sentence": "She practices every day to improve her skills.",
+        "sentence translation": "她每天练习以提高自己的技能。"
+      }
+    ]
+  },
+  {
+    "word": "in",
+    "phonetic american": "ɪn",
+    "phonetic british": "ɪn",
+    "kind": "prep., adv.",
+    "meaning list": [
+      {
+        "meaning": "在...里面 (介词)",
+        "sentence": "The keys are in the drawer.",
+        "sentence translation": "钥匙在抽屉里。"
+      },
+      {
+        "meaning": "进入 (副词)",
+        "sentence": "Please come in.",
+        "sentence translation": "请进。"
+      }
+    ]
+  },
+  {
+    "word": "include",
+    "phonetic american": "ɪnˈkluːd",
+    "phonetic british": "ɪnˈkluːd",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "包括",
+        "sentence": "The price includes breakfast.",
+        "sentence translation": "价格包括早餐。"
+      }
+    ]
+  },
+  {
+    "word": "information",
+    "phonetic american": "ˌɪnfərˈmeɪʃən",
+    "phonetic british": "ˌɪnfəˈmeɪʃən",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "信息",
+        "sentence": "I need more information about the program.",
+        "sentence translation": "我需要更多关于这个项目的信息。"
+      }
+    ]
+  },
+  {
+    "word": "interest",
+    "phonetic american": "ˈɪntrəst",
+    "phonetic british": "ˈɪntrɪst",
+    "kind": "n., v.",
+    "meaning list": [
+      {
+        "meaning": "兴趣 (名词)",
+        "sentence": "She has an interest in photography.",
+        "sentence translation": "她对摄影有兴趣。"
+      },
+      {
+        "meaning": "使感兴趣 (动词)",
+        "sentence": "The topic doesn’t interest me.",
+        "sentence translation": "这个话题对我没有兴趣。"
+      }
+    ]
+  },
+  {
+    "word": "interested",
+    "phonetic american": "ˈɪntrəstɪd",
+    "phonetic british": "ˈɪntrɪstɪd",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "感兴趣的",
+        "sentence": "She is very interested in history.",
+        "sentence translation": "她对历史非常感兴趣。"
+      }
+    ]
+  },
+  {
+    "word": "interesting",
+    "phonetic american": "ˈɪntrəstɪŋ",
+    "phonetic british": "ˈɪntrɪstɪŋ",
+    "kind": "adj.",
+    "meaning list": [
+      {
+        "meaning": "有趣的",
+        "sentence": "The book you recommended is really interesting.",
+        "sentence translation": "你推荐的书真的很有趣。"
+      }
+    ]
+  },
+  {
+    "word": "internet",
+    "phonetic american": "ˈɪntərˌnɛt",
+    "phonetic british": "ˈɪntənɛt",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "互联网",
+        "sentence": "I found the recipe on the internet.",
+        "sentence translation": "我在互联网上找到了这个食谱。"
+      }
+    ]
+  },
+  {
+    "word": "interview",
+    "phonetic american": "ˈɪntərˌvjuː",
+    "phonetic british": "ˈɪntəvjuː",
+    "kind": "n., v.",
+    "meaning list": [
+      {
+        "meaning": "面试，采访 (名词)",
+        "sentence": "The job interview went well.",
+        "sentence translation": "面试进行得很顺利。"
+      },
+      {
+        "meaning": "面试，采访 (动词)",
+        "sentence": "She interviewed three candidates for the position.",
+        "sentence translation": "她面试了三个候选人。"
+      }
+    ]
+  },
+  {
+    "word": "into",
+    "phonetic american": "ˈɪntuː",
+    "phonetic british": "ˈɪntuː",
+    "kind": "prep.",
+    "meaning list": [
+      {
+        "meaning": "进入",
+        "sentence": "She went into the room quietly.",
+        "sentence translation": "她悄悄走进了房间。"
+      }
+    ]
+  },
+  {
+    "word": "introduce",
+    "phonetic american": "ˌɪntrəˈduːs",
+    "phonetic british": "ˌɪntrəˈdjuːs",
+    "kind": "v.",
+    "meaning list": [
+      {
+        "meaning": "介绍",
+        "sentence": "Let me introduce you to my friend.",
+        "sentence translation": "让我把你介绍给我的朋友。"
+      }
+    ]
+  },
+  {
+    "word": "island",
+    "phonetic american": "ˈaɪlənd",
+    "phonetic british": "ˈaɪlənd",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "岛屿",
+        "sentence": "They spent their vacation on a tropical island.",
+        "sentence translation": "他们在热带岛屿度过了假期。"
+      }
+    ]
+  },
+  {
+    "word": "it",
+    "phonetic american": "ɪt",
+    "phonetic british": "ɪt",
+    "kind": "pron.",
+    "meaning list": [
+      {
+        "meaning": "它 (用于无生命物体或动物)",
+        "sentence": "It is raining outside.",
+        "sentence translation": "外面在下雨。"
+      }
+    ]
+  },
+  {
+    "word": "its",
+    "phonetic american": "ɪts",
+    "phonetic british": "ɪts",
+    "kind": "det.",
+    "meaning list": [
+      {
+        "meaning": "它的 (用于无生命物体或动物)",
+        "sentence": "The cat is licking its paw.",
+        "sentence translation": "那只猫正在舔它的爪子。"
+      }
+    ]
+  },
+  {
+    "word": "jacket",
+    "phonetic american": "ˈʤækɪt",
+    "phonetic british": "ˈʤækɪt",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "夹克",
+        "sentence": "He wore a leather jacket.",
+        "sentence translation": "他穿了一件皮夹克。"
+      }
+    ]
+  },
+  {
+    "word": "January",
+    "phonetic american": "ˈʤænjuˌɛri",
+    "phonetic british": "ˈʤænjuəri",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "一月",
+        "sentence": "Her birthday is in January.",
+        "sentence translation": "她的生日在一月。"
+      }
+    ]
+  },
+  {
+    "word": "jeans",
+    "phonetic american": "ʤiːnz",
+    "phonetic british": "ʤiːnz",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "牛仔裤",
+        "sentence": "I bought a new pair of jeans.",
+        "sentence translation": "我买了一条新的牛仔裤。"
+      }
+    ]
+  },
+  {
+    "word": "job",
+    "phonetic american": "ʤɑːb",
+    "phonetic british": "ʤɒb",
+    "kind": "n.",
+    "meaning list": [
+      {
+        "meaning": "工作",
+        "sentence": "He started a new job last week.",
+        "sentence translation": "他上周开始了一份新工作。"
+      }
+    ]
+  }
+
+
+]
